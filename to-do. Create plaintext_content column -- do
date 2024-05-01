@@ -1,0 +1,4 @@
+1. Create plaintext_content column -- done
+2. Create link_value column -- done
+3. Use link_value and jinae to create link_content column -- done
+4. Send message + link_content to Gemini --> get back a description
