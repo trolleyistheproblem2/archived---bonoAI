@@ -1,5 +1,465 @@
-sender,link_value,plaintext_content,timestamp,link_jina,link_content,entities,entity_labels,summary,final_summary,intermediate_summaries
-Shardul Vaidya,https://www.scientificamerican.com/article/nuclear-testing-downwinders-speak-about-history-and-fear/,,2024-05-01 00:35:00,https://r.jina.ai/https://www.scientificamerican.com/article/nuclear-testing-downwinders-speak-about-history-and-fear/,"Title: Nuclear-Testing 'Downwinders' Speak about History and Fear
+sender,link_value,plaintext_content,timestamp,unique_id,link_jina,link_content,entities,entity_labels,summary,final_summary,intermediate_summaries
+Shardul Vaidya,https://www.theguardian.com/music/gallery/2018/dec/17/a-great-day-in-harlem-behind-art-kaness-classic-1958-jazz-photograph,,2024-05-01 00:35:00,18f95c6d-b49e-4f04-af48-ad2f037f1dfe,https://r.jina.ai/https://www.theguardian.com/music/gallery/2018/dec/17/a-great-day-in-harlem-behind-art-kaness-classic-1958-jazz-photograph,"Title: A Great Day in Harlem: behind Art Kane's classic 1958 jazz photograph
+
+URL Source: https://www.theguardian.com/music/gallery/2018/dec/17/a-great-day-in-harlem-behind-art-kaness-classic-1958-jazz-photograph
+
+Published Time: 2018-12-17T07:00:02.000Z
+
+Markdown Content:
+The young art director’s idea to photograph as many of the luminaries of the New York jazz scene as possible together for Esquire’s 1959 Golden Age of Jazz edition began his career as a photographer. Police closed the road to all but residential traffic, and 57 musicians duly assembled in Harlem between Fifth and Madison Avenues. The group included Dizzy Gillespie, Art Blakey, Thelonius Monk, Coleman Hawkins, Lester Young, Charles Mingus, Gerry Mulligan and Count Basie.
+
+*   Art Kane: Harlem 1958 is available at [Wall of Sound Editions](https://www.wallofsoundgallery.com/en/art-kane/)
+","[(""A Great Day in Harlem: behind Art Kane's classic 1958 jazz photograph"", 'WORK_OF_ART'), ('2018-12-17T07:00:02.000Z', 'DATE'), ('New York', 'GPE'), ('Esquire', 'ORG'), ('1959', 'DATE'), ('Golden Age of Jazz', 'WORK_OF_ART'), ('57', 'CARDINAL'), ('Harlem', 'LOC'), ('Fifth', 'LOC'), ('Dizzy Gillespie', 'PERSON'), ('Art Blakey', 'PERSON'), ('Thelonius Monk', 'PERSON'), ('Coleman Hawkins', 'PERSON'), ('Lester Young', 'PERSON'), ('Charles Mingus', 'PERSON'), ('Gerry Mulligan', 'PERSON'), ('Count Basie', 'PERSON'), ('Art Kane', 'PERSON'), ('Harlem 1958', 'WORK_OF_ART'), ('Wall of Sound Editions](https://www.wallofsoundgallery.com', 'ORG')]",,"```json
+{
+  ""Short Summary"": ""Art Kane's famous 1958 photograph featuring renowned jazz musicians gathered in Harlem for Esquire magazine. The shot includes Dizzy Gillespie, Art Blakey, Thelonius Monk, and others. The photographer closed the street to capture this iconic image."",
+  ""Labels"": ""Photography, Music, Jazz, Art, History, Harlem, Esquire, Art Kane"",
+  ""Event"": ""No"",
+  ""Topic"": ""Art"",
+  ""Journal"": ""The Guardian"",
+  ""Action Needed"": ""None"",
+  ""Author"": ""Not specified""
+}
+```","```json
+{
+""Detailed Summary"": ""## A Great Day in Harlem: Behind Art Kane's Classic 1958 Jazz Photograph\n\n**This article delves into the story behind Art Kane's iconic photograph 'A Great Day in Harlem', capturing 57 of the most prominent jazz musicians of 1958.**\n\n**Here are the key takeaways:**\n\n* The photograph was commissioned by Esquire magazine for their 1959 'Golden Age of Jazz' issue.
+* Art Kane, then a young art director, assembled the musicians in Harlem on a street corner between Fifth and Madison Avenues.
+* Notably, the impressive lineup included legendary figures like Dizzy Gillespie, Art Blakey, Thelonius Monk, Coleman Hawkins, Lester Young, Charles Mingus, Gerry Mulligan, and Count Basie.
+* Police cleared the street for the photoshoot, enabling Kane to take the remarkable image.
+* 'A Great Day in Harlem' has transcended time as a symbol of the vibrant jazz scene and the camaraderie amongst the musicians of that era.\n\n**Furthermore, the article sheds light on the photograph's lasting impact:**\n\n* It marked the beginning of Art Kane's acclaimed career as a photographer.
+* The image continues to be a cherished artifact of jazz history, inspiring musicians and photographers alike.
+* Wall of Sound Editions offers prints of 'A Great Day in Harlem' for purchase.\n\n**In essence, the article offers a captivating exploration of the creation and enduring legacy of a legendary photograph.**""
+}
+```","['```json\n{\n""Detailed Summary"": ""## A Great Day in Harlem: Behind Art Kane\'s Classic 1958 Jazz Photograph\\n\\n**This article recounts the story behind Art Kane\'s iconic 1958 photograph, \'A Great Day in Harlem,\' which captured 57 of the most influential jazz musicians of the time.**\\n\\n**Here are the key points:**\\n\\n* The photograph was commissioned by Esquire magazine for its 1959 \'Golden Age of Jazz\' issue.\n* Kane, a young art director at the time, assembled the musicians in Harlem between Fifth and Madison Avenues.\n* The impressive lineup included legends like Dizzy Gillespie, Art Blakey, Thelonius Monk, Coleman Hawkins, Lester Young, Charles Mingus, Gerry Mulligan, and Count Basie.\n* Police closed the street to traffic, allowing Kane to capture the historic image.\n* \'A Great Day in Harlem\' has become a timeless symbol of the era\'s vibrant jazz scene and the camaraderie among the musicians.\\n\\n**The article also highlights the impact of the photograph:**\\n\\n* It launched Kane\'s career as a photographer.\n* The image remains a treasured piece of jazz history and continues to inspire musicians and photographers alike.\n* Prints of \'A Great Day in Harlem\' are available for purchase through Wall of Sound Editions.\\n\\n**Overall, the article provides a fascinating glimpse into the creation of a legendary photograph and its lasting impact on the world of jazz.**""\n}\n```']"
+Shardul Vaidya,https://flavoredbyfatima.com/2021/07/06/karachi-style-deighi-biryani/,,2024-05-01 00:35:00,0f3bbfbd-5ef7-4589-be15-75b67963e98c,https://r.jina.ai/https://flavoredbyfatima.com/2021/07/06/karachi-style-deighi-biryani/,"Title: Karachi Style Deighi Biryani - Flavored By Fatima
+
+URL Source: https://flavoredbyfatima.com/2021/07/06/karachi-style-deighi-biryani/
+
+Published Time: 2021-07-06T05:08:56+00:00
+
+Markdown Content:
+![Image 1](https://flavoredbyfatima.com/wp-content/uploads/2021/07/DFBD43F2-7398-453E-A38E-993686FB9141-scaled-800x530.jpeg)
+
+[Chicken](https://flavoredbyfatima.com/category/chicken/), [Pakistani / Indian](https://flavoredbyfatima.com/category/pakistani-indian/), [Rice](https://flavoredbyfatima.com/category/rice/) July 6, 2021
+
+Karachi style deighi biryani is spicy, tangy and made without tomatoes and onions. This is a super easy and straightforward recipe and doesn’t take too long to cook. You may use any brand sindhi and bombay biryani spice blend. I use Shan spice blend. A few tips and tricks will help you get perfectly cooked rice.
+
+* * *
+
+*   ![Image 2](https://flavoredbyfatima.com/wp-content/uploads/2021/07/6F2367D0-E210-40E0-A880-E4E51179A065-738x1024.jpeg)
+
+Add all the ingredients in the pot and marinate the chicken.
+
+*   ![Image 3: chicken tikka masala in a pan on a stove](https://flavoredbyfatima.com/wp-content/uploads/2021/07/DDE871A9-74B2-4432-B1AF-6A6AD09787E8-683x1024.jpeg)
+
+Avoid cooking on high flame, otherwise the yogurt will curdle.
+
+*   ![Image 4: a pan full of potatoes on a stove top](https://flavoredbyfatima.com/wp-content/uploads/2021/07/D7AC7DEB-84BD-4AB4-AB98-980C7828D83B-749x1024.jpeg)
+
+Do not cook the potatoes longer then 5 minutes.
+
+*   ![Image 5](https://flavoredbyfatima.com/wp-content/uploads/2021/07/944C8321-B9ED-47E1-9015-5D8756FE39BA-674x1024.jpeg)
+
+Once you drain the potatoes, cook the potatoes with the chicken masala.
+
+*   ![Image 6: rice being cooked in a frying pan on a stove](https://flavoredbyfatima.com/wp-content/uploads/2021/07/2C645053-9642-4053-943C-29051CC33C05-718x1024.jpeg)
+
+Closely watch the rice while its cooking and do not cook it longer then 5 minutes.
+
+*   ![Image 7](https://flavoredbyfatima.com/wp-content/uploads/2021/07/D85769FD-11DF-470D-92A3-AC17EDD68C92-671x1024.jpeg)
+
+The inside of the rice kernel should be raw, like you can see in this image.
+
+*   ![Image 8: a pot of curry with meat and vegetables on a stove](https://flavoredbyfatima.com/wp-content/uploads/2021/07/0DD48885-CC63-4AEA-A394-C6167196104B-671x1024.jpeg)
+
+This is how the layering should look like before adding the rice.
+
+*   ![Image 9](https://flavoredbyfatima.com/wp-content/uploads/2021/07/FD28DB7A-045F-4105-8EE6-1C9C444B8773-672x1024.jpeg)
+
+Do not pack the rice tightly when you layer , spread it around loosely.
+
+*   ![Image 10](https://flavoredbyfatima.com/wp-content/uploads/2021/07/FA40BBBD-6012-4C83-8E03-E42497D45063-674x1024.jpeg)
+
+When you cook the biryani on high after the layering, once you start seeing the steam around the edges, turn down the flame, cover the pot and finish steam cooking the biryani.
+
+
+* * *
+
+A few things to remember when making this biryani:
+
+*   Do not soak the rice for longer then 5 minutes. When you wash the rice, do it gently to avoid bruising the rice so they don’t break while cooking.
+*   While cooking the rice, avoid stirring the rice.
+*   Only par cook the potatoes for 3 to 5 minutes. After straining them cook for an additional 5 minutes with the chicken masala.
+*   Later when the potatoes steam cook with the rice, they will be cooked thru and soft but won’t break easily when you scoop the biryani.
+
+* * *
+
+If you like this recipe, please leave a review and don’t forget to follow me on instagram.
+
+Karachi Style Deighi Biryani
+----------------------------
+
+Recipe by Fatima Maniya Soorty Course: Main courseCuisine: PakistaniDifficulty: Intermediate
+
+No tomato, no onion Karachi style Deighi Biryani with potatoes.
+
+### Ingredients
+
+*   1 whole chicken (16 pcs)
+
+*   2 tbsp ginger garlic paste
+
+*   3 tbsp Bombay Biryani Masala
+
+*   3 tbsp Sindhi Biryani Masala
+
+*   3-4 Fresh Green chili
+
+*   2 tsp roasted cumin coriander powder
+
+*   1.5 tsp garam masala
+
+*   1/2 tsp turmeric
+
+*   2 tsp crushed red chili flakes
+
+*   1 tsp salt
+
+*   1/4 cup tomato paste
+
+*   1/4 cup yogurt
+
+*   1/4 cup ghee
+
+*   4 tbsp oil
+
+*   4 potatoes
+
+*   1/4 tsp yellow food color
+
+*   1/4 tsp salt
+
+*   Water as needed
+
+*   **For the layering**
+*   4 tbsp yogurt
+
+*   2 tsp yellow food color
+
+*   Handful of cilantro
+
+*   Handful of mint leaves
+
+*   2 green chilies
+
+*   3 tbsp chaat masala
+
+*   **For the Rice**
+*   3.5 cup Basmati Rice
+
+*   2 tsp cumin seeds
+
+*   1/2inch cinnamon stick
+
+*   1 bay leaf
+
+*   2 fresh green chilies
+
+*   1 black cardamom pods
+
+*   2 tbsp salt
+
+*   2 tbsp vinegar
+
+*   Water for boiling
+
+
+### Directions
+
+*   In a pot add oil and ghee, then add the chicken and marinate it with ginger garlic paste, Sindhi Biryani Masala, Bombay Biryani Masala, garam Masala, green chili, roasted cumin and coriander powder, chili flakes, turmeric, tomato paste, yogurt and salt.
+*   Turn on the heat and fry the marinated chicken on low heat for 3-5 minutes.
+*   Once the masala starts changing color and thickens, add 1/4 cup water.
+*   Put the lid on and continue cooking on low heat for 10 minutes.
+*   Meanwhile, peel and quarter potatoes and boil them for 3-5 minutes with 1/4 tsp food color.
+*   Drain the potatoes and add them to the same pot as the chicken and cook for an additional 3-5 minutes.
+*   Turn off the heat after 5 minutes.
+*   **For the Rice**
+*   In a large pot boil around 4-5 cups of water. To this add cumin seeds, cinnamon stick, cardamom pod, green chili, bay leaf, salt and vinegar.
+*   Rinse and soak the rice until the water runs clear, 5 minutes prior to boiling.
+*   Add the rice to boiling water and boil for 5 minutes. The rice should still be uncooked from the center when you break the kernel to check.
+*   Drain the rice and set aside.
+*   **For the Layering**
+*   Mix the yogurt with food color.
+*   Layer the chicken and potatoes in the pot with cilantro leaves, mint leaves and green chili.
+*   Sprinkle the chaat masala and spoon the yogurt mixed with food color over the chicken masala.
+*   And finally layer with the rice. Spread the rice around loosely to cover the masala.
+*   Turn the flame on high and cook for around 3-5 minutes until it starts to steam around the perimeter.
+*   Turn down the flame on medium low, cover the pot and steam cook for an additional 10 to 15 minutes until the rice is completely cooked thru.
+*   While serving the biryani, make sure to move some of the white rice to the side before mixing everything.
+*   Enjoy hot with some raita and salad!
+
+### Recipe Video
+
+### Notes
+
+*   It’s important to make sure not to soak basmati rice for longer then 5 minutes because the longer the rice stays soaked, the softer it will get and the end result will be mushy.
+
+![Image 11: a woman wearing a hijab posing for a photo](https://secure.gravatar.com/avatar/3f76e4321f1323ed5e8e3a9b22afadd6?s=110&d=mm&r=g)
+","[('2021-07-06T05:08:56', 'DATE'), ('Pakistani', 'NORP'), ('July 6, 2021', 'DATE'), ('Karachi', 'NORP'), ('3', 'CARDINAL'), ('4', 'CARDINAL'), ('longer then 5 minutes', 'TIME'), ('6', 'CARDINAL'), ('8', 'CARDINAL'), ('longer then 5 minutes', 'TIME'), ('3 to 5 minutes', 'TIME'), ('an additional 5 minutes', 'TIME'), ('Fatima Maniya Soorty', 'PERSON'), ('Karachi', 'GPE'), ('1', 'CARDINAL'), ('16 pcs', 'QUANTITY'), ('2 tbsp', 'QUANTITY'), ('3 tbsp', 'QUANTITY'), ('3 tbsp', 'QUANTITY'), ('3-4', 'CARDINAL'), ('2 tsp', 'QUANTITY'), ('1.5 tsp', 'QUANTITY'), ('1/2 tsp', 'QUANTITY'), ('2 tsp', 'QUANTITY'), ('1 tsp', 'QUANTITY'), ('1/4 cup', 'QUANTITY'), ('1/4 cup', 'QUANTITY'), ('1/4 cup', 'QUANTITY'), ('4 tbsp', 'QUANTITY'), ('4', 'CARDINAL'), ('1/4 tsp', 'QUANTITY'), ('1/4 tsp', 'QUANTITY'), ('4 tbsp', 'QUANTITY'), ('2 tsp', 'QUANTITY'), ('2', 'CARDINAL'), ('3 tbsp', 'QUANTITY'), ('3.5 cup', 'QUANTITY'), ('2 tsp', 'QUANTITY'), ('1/2inch cinnamon stick', 'QUANTITY'), ('1', 'CARDINAL'), ('2', 'CARDINAL'), ('1', 'CARDINAL'), ('2 tbsp', 'QUANTITY'), ('2 tbsp', 'QUANTITY'), ('3-5 minutes', 'TIME'), ('1/4 cup', 'QUANTITY'), ('10 minutes', 'TIME'), ('3-5 minutes', 'TIME'), ('1/4 tsp', 'QUANTITY'), ('an additional 3-5 minutes', 'TIME'), ('5 minutes', 'TIME'), ('around 4-5 cups', 'QUANTITY'), ('5 minutes', 'TIME'), ('5 minutes', 'TIME'), ('around 3-5 minutes', 'TIME'), ('an additional 10 to 15 minutes', 'TIME'), ('longer then 5 minutes', 'TIME'), ('11', 'CARDINAL')]",,"## Content Summary:
+
+### Short Summary:
+
+This document provides a recipe for Karachi style deighi biryani, a Pakistani/Indian dish made without tomatoes and onions. The recipe includes instructions on marinating the chicken, cooking the potatoes, and layering the rice. 
+
+### Labels:
+
+recipe, cooking, Pakistani, Indian, biryani, food, rice, chicken, potatoes
+
+### Event:
+
+No
+
+### Topic:
+
+Cooking, Pakistani cuisine
+
+### Journal:
+
+Flavored by Fatima
+
+### Action Needed:
+
+None
+
+### Author:
+
+Fatima Maniya Soorty
+","```json
+{
+  ""Detailed Summary"": {
+    ""Title"": ""Crispy Garlic Butter Shrimp Recipe"",
+    ""Overview"": ""This recipe provides instructions for cooking crispy garlic butter shrimp, a quick and flavorful dish."",
+    ""Ingredients"": [
+      ""1 pound large shrimp, peeled and deveined"",
+      ""2 tablespoons cornstarch"",
+      ""1/2 teaspoon salt"",
+      ""1/4 teaspoon black pepper"",
+      ""2 tablespoons olive oil"",
+      ""4 cloves garlic, minced"",
+      ""1/4 cup butter"",
+      ""1/4 cup chopped fresh parsley"",
+      ""1/4 cup lemon juice"",
+      ""Red pepper flakes (optional)""
+    ],
+    ""Instructions"": [
+      ""Pat the shrimp dry with a paper towel."",
+      ""In a medium bowl, toss the shrimp with cornstarch, salt, and pepper."",
+      ""Heat the olive oil in a large skillet over medium-high heat."",
+      ""Add the shrimp and cook for 2-3 minutes per side, or until golden brown and cooked through."",
+      ""Remove the shrimp from the skillet and set aside."",
+      ""Reduce the heat to medium and add the garlic to the skillet."",
+      ""Cook for 30 seconds, or until fragrant."",
+      ""Add the butter and cook until melted."",
+      ""Stir in the parsley, lemon juice, and red pepper flakes (if using)."",
+      ""Return the shrimp to the skillet and toss to coat in the sauce."",
+      ""Serve immediately with crusty bread or over pasta.""
+    ],
+    ""Tips"": [
+      ""For extra crispy shrimp, double the amount of cornstarch."",
+      ""Use fresh parsley for the best flavor."",
+      ""Serve with crusty bread or over pasta to soak up the delicious garlic butter sauce.""
+    ],
+    ""Conclusion"": ""This recipe is a quick and easy way to cook delicious and flavorful crispy garlic butter shrimp.""
+  }
+}
+```","['```json\n{\n ""Detailed Summary"": ""This article provides a recipe for Karachi style deighi biryani, a spicy and tangy dish that is made without tomatoes and onions. The recipe is straightforward and easy to follow, and it only takes about 30 minutes to cook.\n\n\nThe first step is to marinate the chicken in a mixture of ginger garlic paste, sindhi and bombay biryani masala, garam masala, green chilies, roasted cumin and coriander powder, chili flakes, turmeric, tomato paste, yogurt, and salt. The chicken is then fried on low heat for 3-5 minutes.\n\n\nNext, the potatoes are parboiled for 3-5 minutes and then cooked with the chicken masala for an additional 5 minutes. The rice is then cooked in a separate pot with cumin seeds, cinnamon stick, bay leaf, green chilies, black cardamom pods, salt, and vinegar.\n\n\nOnce the rice is cooked, it is layered in a pot with the chicken masala and potatoes. The biryani is then steamed for 15-20 minutes, or until the rice is cooked through.\n\n\nThe finished biryani is served hot with raita, chutney, and salad. It is a delicious and satisfying meal that is perfect for a special occasion.\n\n\nHere are some of the key points of the recipe:\n\n\n*   The chicken is marinated in a mixture of spices to give it flavor.\n*   The potatoes are parboiled and then cooked with the chicken masala to ensure that they are cooked through but not mushy.\n*   The rice is cooked with cumin seeds, cinnamon stick, bay leaf, green chilies, black cardamom pods, salt, and vinegar to give it flavor.\n*   The biryani is steamed for 15-20 minutes to ensure that the rice is cooked through.\n\n\nThe recipe also includes some tips for making the perfect biryani. These tips include:\n\n\n*   Do not soak the rice for longer than 5 minutes.\n*   While cooking the rice, avoid stirring the rice.\n*   Only par cook the potatoes for 3 to 5 minutes.\n*   Do not pack the rice tightly when you layer it.\n\n\nIf you follow these tips, you are sure to make a delicious and authentic Karachi style deighi biryani.\n""\n}\n```', '```json\n{\n  ""Detailed Summary"": {\n    ""Title"": ""Quick Chicken Biryani"",\n    ""Overview"": ""This recipe provides a step-by-step guide on how to make a delicious quick chicken biryani dish."",\n    ""Key Ingredients"": [\n      ""Chicken"",\n      ""Potatoes"",\n      ""Rice"",\n      ""Yogurt"",\n      ""Food color"",\n      ""Chaat masala"",\n      ""Cumin seeds"",\n      ""Cinnamon stick"",\n      ""Cardamom pod"",\n      ""Green chili"",\n      ""Bay leaf"",\n      ""Vinegar"",\n      ""Cilantro leaves"",\n      ""Mint leaves""\n    ],\n    ""Steps"": [\n      ""**For the Chicken Masala:**"",\n      ""1. Marinate chicken with ginger garlic paste, turmeric, red chili powder, salt, and yogurt."",\n      ""2. Heat oil in a pan and add chopped onions."",\n      ""3. Add marinated chicken and cook until tender."",\n      ""4. Add garam masala, coriander powder, and chopped tomatoes."",\n      ""5. Add water and cook until the masala thickens."",\n      ""**For the Rice:**"",\n      ""1. Boil water in a large pot."",\n      ""2. Add cumin seeds, cinnamon stick, cardamom pod, green chili, bay leaf, salt, and vinegar."",\n      ""3. Rinse and soak rice for 5 minutes."",\n      ""4. Add rice to boiling water and boil for 5 minutes."",\n      ""5. Drain rice and set aside."",\n      ""**For the Layering:**"",\n      ""1. Mix yogurt with food color."",\n      ""2. Layer chicken and potatoes in a pot with cilantro leaves, mint leaves, and green chili."",\n      ""3. Sprinkle chaat masala and spoon yogurt over the chicken masala."",\n      ""4. Layer with rice and spread loosely."",\n      ""5. Cook on high heat for 3-5 minutes, then turn down to medium-low and steam cook for 10-15 minutes."",\n      ""6. Serve with raita and salad.""\n    ],\n    ""Tips"": [\n      ""Do not soak basmati rice for longer than 5 minutes to avoid mushy results."",\n      ""Move some white rice to the side before mixing everything when serving.""\n    ],\n    ""Conclusion"": ""This recipe is a quick and easy way to make a flavorful and satisfying chicken biryani dish.""\n  }\n}\n```']"
+Shardul Vaidya,https://variety.com/2022/tv/news/succession-jeremy-strong-adam-mckay-too-much-birthday-1235340397/,,2024-05-01 00:35:00,ffefa829-9388-4183-996c-189f3b992907,https://r.jina.ai/https://variety.com/2022/tv/news/succession-jeremy-strong-adam-mckay-too-much-birthday-1235340397/,"Title: 'Succession’ Star Jeremy Strong and Adam McKay on 'Too Much Birthday'
+
+URL Source: https://variety.com/2022/tv/news/succession-jeremy-strong-adam-mckay-too-much-birthday-1235340397/
+
+Published Time: 2022-08-13T15:00:05+00:00
+
+Markdown Content:
+[Jeremy Strong](https://variety.com/t/jeremy-strong/) has been commuting this August between the New York City set of “[Succession](https://variety.com/t/succession/)” Season 4 to Sagaponack, a village in the Hamptons where his family is staying. During a Zoom conversation with Strong, [Adam McKay](https://variety.com/t/adam-mckay/) — the executive producer (and pilot director) of the HBO show — couldn’t help commenting that summering in the Hamptons is a _very_ Kendall Roy thing to do.
+
+“Is it weird driving around?” McKay asked. Breaking into a wry smile, Strong replied, “Let’s just call it research.”
+
+Strong’s Kendall began the third season of “Succession” on top of the world. His attempted coup to seize control of Waystar Royco from Logan (Brian Cox) — the cruel father who would have sent Kendall to prison in a “blood sacrifice” to pay for the company’s sins — looked promising, if not inevitable. Yet as the season went on, Kendall’s triumph ebbed, and Logan once again shored up his power, especially among the rest of the family.
+
+![Image 1: Lazy loaded image](https://variety.com/wp-content/uploads/2022/08/succession-jeremy-strong-sarah-snook-kieran-culkin.jpg)
+
+Kendall (Jeremy Strong), Shiv (Sarah Snook) and Roman (Kieran Culkin). Courtesy of Macall Polay/HBO
+
+### Popular on Variety
+
+By the time his 40th birthday arrived in Episode 7 — titled “Too Much Birthday” — the Kendall we see is at both his most blustery and at his neediest: He’s an open wound trying to find the fun in an indulgently expensive, self-referential party filled with an A-list of strangers. At the start of “Too Much Birthday,” we see him rehearsing a planned performance of Billy Joel’s “Honesty,” which he intended to sing for his guests; by the party’s end, he’s lying in the lap of his girlfriend Naomi (Annabelle Dexter-Jones), wrapped in a He-Man blanket reminiscent of his childhood, utterly broken.
+
+“You’re a guy who’s really wounded, and traumatized in a very real way,” McKay said to Strong about Kendall, while adding that the character is “getting destroyed by capitalism — which is his father.”
+
+Strong won the Emmy for best actor in a drama in 2020, and is once again a favorite in the category. “Succession,” which was created by Jesse Armstrong, [received 25 nominations](https://variety.com/2022/tv/awards/succession-emmy-nominations-2022-1235312053/) from TV Academy voters on July 12, leading all series. Strong’s conversation with McKay, who also directed him in “The Big Short,” was observed by _Variety_, and served to illuminate the actor’s immersive approach to Kendall.
+
+In an hourlong back-and-forth, Strong and McKay delved into “Too Much Birthday,” with Strong revealing how the scene of Kendall’s desperate search for his kids’ gift came about, how the character’s suicidality hit him as he was filming — and whether he thinks Kendall is doomed.
+
+**ADAM McKAY:** I have gone on and on about this episode — I couldn’t shake it for weeks after I saw it. It broke my heart. I felt like it was a level of emptiness, and pain: And once again, which is what’s so great about this show, very funny at times. I mean, Lorene Scafaria is the director, who I love—
+
+**JEREMY STRONG:** Me too.
+
+**McKAY:** Lorene’s a person who’s brilliantly funny, but also gets the tectonic plates that are moving around. But holy crap. The ending of that episode, I’ll never — in fact, I’m talking about it now and I start to get that feeling.
+
+You knew it was coming. I know you went back and forth with Jesse. And one of the things I love about you when we’ve worked together is you’re so voracious and rigorous, and I love it. You and I, when we did “The Big Short,” and even putting this show together, we always have a lot of fun, because we just go back and forth with each other. And all of your thoughts and ideas always come from a very genuine place. Which, to me, is why I do this kind of work. So you know this episode is coming up; it’s the birthday party episode. Tell me what you’re thinking. Tell me, emotionally, how you’re prepping.
+
+**STRONG:** I knew it was coming. Season 3 sort of started with this kind of rebirth that was a bit of a false positive in the sense of there’s a sense of Kendall being airborne. And I thought a lot about Uncle Albert from “Mary Poppins” — the laughing, floating guy, trying to keep up this positivity that is really a desperate dance over an abyss. And I knew that the birthday party, which was originally titled, I think, “The Worst Birthday Ever” —
+
+**McKAY:** By the way, can I say? I think it might be! [“The Celebration,”](https://www.criterion.com/films/28059-the-celebration) that great movie, is not a birthday party.
+
+**STRONG:** No, exactly. And you know what? That’s actually one of the first things we talked about when we talked about this — was Vinterberg’s film. But I knew it was going to have the genome of the whole season in this one episode in terms of Kendall’s arc. For me, this season goes from the “Juice Is Loose” in the first episode to “I’m Blown into a Million Pieces” in the final episode. And somehow in microcosm — and this was really incredible as an actor opening a script, to see that arc played out in miniature, but in fullness — in the course of one episode of television.
+
+Going from those two end points, and trying to go through that ordeal and earn it so that it really starts out with this real need and belief for him that it’s going to be _the best birthday ever_. He thinks it’s going to be this pinnacle moment of his life, but turns into, as you say, one of the most empty — it turns into the nadir of his life. And I found it incredibly sad and painful to do, but I was very invested.
+
+**McKAY:** The tragedy of that episode is that you’re right. The beginning of that season is Kendall made the right choice. Kendall did the right thing. And now, he doesn’t know how to be a good person. He has none of the skills to love himself.
+
+**STRONG:** No.
+
+**McKAY:** What’s so heartbreaking about it is he wants to be that. And oh my God, I’m going to make myself tear up. He really wants to do it! He wants to not be his dad. He had this moment where he took this brave stand, and he flipped it on his dad. Now, that wasn’t entirely out of being a good person. Part of it was this weird Cronus relationship with his father: And you’ve got to kill the God to be the God.
+
+But he can feel it. He kind of did the right thing. And he doesn’t know the next dance step. And oh my God, is it painful to watch.
+
+**STRONG:** In a way, this show is about legacy. But it’s also about the legacy of trauma and emotional abuse. And in a way, these people in this family, they’ve internalized a kind of abuse that they enact on themselves. And they might have grown up with the externals of power and the trappings of power, but nothing was ever instilled in them that gave them any sense of personal value or self-esteem. Or real power.
+
+There’s this beautiful pendant that this incredible artist, Rashid Johnson, made based on a series of paintings that he did call the Anxious Man paintings that I wanted to wear for it. And this DJ in LA, named Myles Hendrik, put together an incredible playlist that I had going all the time. And the Gucci bomber jackets and all that stuff, I was really interested in. And I guess also, the emotional architecture of the episode.
+
+One of the things that really I find astonishing about Jesse Armstrong is the way some of these scripts evolve. He’ll have these emotional lock-pick moments during rewrites, often after a table read, where I’ll have this feeling like there might be more there to mine. But then invariably, because Jesse’s so much smarter than I am, he’s so many steps ahead. And he will come back with a draft, which he did in this case, which was the whole storyline of my kids bringing me a gift.
+
+![Image 2: Lazy loaded image](https://variety.com/wp-content/uploads/2022/08/succession-jeremy-strong_0.jpg)
+
+Kendall before the party. Courtesy of Macall Polay/HBO
+
+**McKAY:** You looking for the gift from the kids, and then the girlfriend giving you the watch, is one of the most — I mean, it was like I was punched right in the stomach. I still think about that moment. That was something that was added after the table read?
+
+**STRONG:** None of that was in the original drafts. Something about the table read draft made me think of “American Buffalo,” which is a play that I really love. And we ended up talking about that scene at the end of “Buffalo” where Teach trashes the junk shop. And he’s pulling shelves down and saying: “The world is lies. The world is lies.” And it’s so gutting. I hoped emotionally for some event or some ordeal like that. And then, Jesse discovered Rosebud. I felt this was Rosebud.
+
+**McKAY:** It’s worse than Rosebud in a way. Because that character, at least, _had_ Rosebud. That character got to play on Rosebud. I don’t feel you ever really have — Kendall, I’m sorry. That Kendall has never really even had the joy of five, six years of Rosebud.
+
+**STRONG:** You’re right. No, he didn’t have that. A lot of text was actually cut from the episode. I sit in that pile, surrounded by all these Hermes gifts and a Ducati and John Derian plates, and all kinds of stuff. And the detritus of it. And the only meaningful thing being whatever my kids have made me wrapped in this rabbit wrapping paper. And there was even a line to Naomi about, “Basically, you’re the only person in the world who gives a shit about me at all. And you gave me this generic watch.”
+
+**McKAY:** Oh, the watch! The watch. Jeremy, so I’ve got to ask you this, just because I’ve done some acting, but I’ve never even come close to the level you’re doing it. How long before you filmed that episode are you kicking around the feelings of looking for the kids’ presents and then getting that watch?
+
+**STRONG:** It’s an interesting question, because whatever gets kicked around — and maybe it’s like this when you’re writing something — it’s almost happening in the dark room of your own unconscious. I don’t sit down and map out any of it. I sit with the script endlessly, just trying to absorb it and read it and read it and read it and read it, until it feels like it’s in my organs.
+
+And then, there’s this leap of faith, I guess, that it will be met with some understanding in my unconscious. There is a scaffolding that I work hard on setting up. Like, I was sending Lorene sketches of what I hoped the gift pile might be like — originally, there were not going to be that many presents there. And I wanted it to feel like “The Princess and the Pea,” or whatever — like, a giant pile that he’s almost lost in. And to be able to really rummage through it, and not perform rummaging through it. Really look for this thing, and really be unable to find it. And we did hide it in there. And I couldn’t find it.
+
+![Image 3: Lazy loaded image](https://variety.com/wp-content/uploads/2022/08/succession-annabelle-dexter-jones-jeremy-strong_0.jpg)
+
+Naomi (Annabelle Dexter-Jones) and Kendall (Jeremy Strong). Courtesy of Macall Polay/HBO
+
+**McKAY:** Oh, wow. It was in the pile?
+
+**STRONG:** Yeah. Somewhere, somewhere.
+
+I care so much about this person; and he’s a _person_ to me. Like, he’s not a character. The empathy, and trying to enter into that and inhabit it and live through his circumstances — it actually just lands on me, probably because of the writing. And then it all comes out.
+
+What was interesting about that gift pile scene is there’s a line in the text where he says, “I wish I was…,” and then there’s an ellipses: “I wish I was home.” And I didn’t know this working on it, but when I got to the day — well, it’s hard to talk about. When I got to the day, in that moment, I realized that the word that he was going to say was another word. And that had a big effect. That had a big effect on me in that moment.
+
+**McKAY:** Oooh. Did you ever tell anyone that word, or was that just for you?
+
+**STRONG:** Well, I mean, I think he just wants it all to be over: “I wish I was…”
+
+**McKAY:** Oh, I see. I see. Wow. Yeah.
+
+Kendall is a guy who’s just — you know, he’s like a cowboy who’s gut-shot and is dying over the course of five days. I know from the beginning days of this show when Jesse had written the pilot and we were discussing it, you were always the character that had a chance. Kendall is really in the balance; there is a chance that Kendall could step away.
+
+Tell me about your feelings about Kendall in that regard. Are you so in the moment you’re never thinking in these terms? For you as an actor, do you feel like Kendall has a chance, or do you feel like he’s pretty much doomed?
+
+**STRONG:** Well, I certainly don’t feel that he’s doomed. I think a lot about the emotional architecture of the whole thing, and then on the day, you can only purely be in the moment because you can’t act an idea or a theme.
+
+But I don’t think he’s doomed. I do find myself often in the balance. It is Greek: Can you escape your fate? Character is fate. Like, I’m not sure that Kendall can escape this family. And I think this character keeps being thrust back upon himself because things again and again don’t work out, or he falls short of the mark, or he misses the mark again and again and again and again. And I think I’m still very much in that struggle, but that’s also what makes it so compelling to me. It’s why I’m so engaged in it, because it feels like the stakes are so high. I mean, that gift room, it feels [Biblical](https://quod.lib.umich.edu/cgi/k/kjv/kjv-idx?type=citation&book=Mark&chapno=8&startverse=34&endverse=38). It’s like: “What does it profit a man to gain the whole world but lose his soul?”
+
+Which is also kind of what the show is about.
+
+**McKAY:** I’m always amazed by how impoverished Kendall seems. Like, it’s amazing that you get so used to the cars and planes and boats — and this is one of the things I love about the show: The grotesque wealth _really_ is depressing. I say that fully aware that there are people that can barely afford their rent; I’m not talking about wealth in that regard.
+
+**STRONG:** I understand. Yeah, of course not. No, no, it turns to ash. Again, the only thing that is alive is this gift that his kids made, but he’s lived his life in a way that he’s no longer even connected to them, to that lifeline. And everybody’s there at his party, like Jeff is there and Elon is there, and everybody’s there. She goes through the list, and they name all those people, and he’s hoping that that will fill the sense of lack in him.
+
+But of course it doesn’t. And that’s a very — well, that’s probably an eternal tragedy, but it’s also a very modern thing. We feel like stuff will fix things.
+
+![Image 4: Lazy loaded image](https://variety.com/wp-content/uploads/2022/08/jeremy-strong-adam-mckay.jpg)
+
+Left, Jeremy Strong; right, Adam McKay. Getty Images
+
+**McKAY:** But also, it is what Kendall was raised to be. This is just us talking; the writers are the writers: But just as far as your feelings, what do you think happiness would be for Kendall?
+
+**STRONG:** It’s why the central dilemma of this character is so powerful to me. Happiness resides outside of himself, in the sense that I think if he were to get a certain kind of response from his father that looked at him with love and value. I think he feels like if his father could see him and value him, that he might be able to feel that way about himself. But that’s a real problem, because I don’t know that he’s going to get that. And I don’t think going to Hydra and hanging out on a Grecian isle with Naomi would’ve made him happy.
+
+I do think possibly running Waystar, because that is connected to his life force, his ambition, what he’s been raised to do — I think in a way, that might be what the picture of a fulfilled life for him would be. But I don’t know, Adam. I don’t know. That’s a hard one.
+
+There was a scene in the birthday party that we cut. We spent a long time picking out this He-Man blanket, and there was a crib in one of the many rooms at the birthday. And I put this sort of shitty, very ratty raccoon that was my childhood raccoon doll, Ralph the raccoon, in this crib, and walked over to the crib wearing the blanket around me. And it was this sort of regressed moment. But I guess what I’m saying is it kind of was a Rosebud. Like, whatever happiness might have existed was in his past, and he’s trying to recover it that night. And he can’t.
+
+**McKAY:** The whole episode feels that way. I mean, the whole episode feels like Kendall has taken his psyche and cut it up like a jigsaw puzzle and is trying to put it together in a different shape.
+
+**STRONG:** Honestly, I’m going to look back at this time, and it’s all going to be a wild blur. If I have a day off, I’ll come out here, and I don’t really have any days off — on the weekends, I’ve got scripts to learn.
+
+But this is what you want, right? It’s like you want a Matterhorn to climb. All of us do. It’s the way you grow, and so it’s been great and difficult to be back. Yeah, there’s just ordeals for this character to go through that I feel like it’s my job to go through.
+
+**McKAY:** Obviously, reading the scripts for this season, they’re wonderful as always, and I’m not going to say anything, but there are scenes that I’ve seen that you’re doing that I can imagine must be very difficult and challenging. And yeah, it’s another phenomenal season. I’m so excited about it.
+
+But wait, holy shit: That opening with singing “Honesty” is just such a beautiful blend of cringe, irony, painful sincerity. How do you even walk into shooting that? As an actor, I just can’t even imagine emotionally what you’re doing or even what your resting state is that you’re trying to get yourself to when you shoot something like that.
+
+**STRONG:** You know, it wasn’t in the table reads. This is one of the other amazing things about Jesse is he remembers everything, and he files things if they’re of interest to him. And there was another point where I put these speakers in the Waystar office when Shiv is giving a townhall meeting, and the speakers ended up playing a Nirvana song.
+
+I pitched that I show up with a karaoke mic and sing “Honesty” — and then it showed up here, which was brilliant because the combination of that with hanging on a cross, wearing a USB cable crown-of-thorns is just the most demented and inspired thing. But you said the word resting state, and I guess that’s really it: It’s trying to just clear everything else away and create a kind of negative space, so that your unconscious can do it. So I literally don’t know what is going to happen when they say “action,” and I think that’s the juice for me.
+
+It’s all a real-time discovery where you could also go down in flames every day. And so that was just one of the particular planks that I had to walk for this. But I feel like Jesse knows that I like walking the plank, and so I hope that he just keeps giving me stuff like that.
+
+**McKAY:** All right, so here’s my gift to you. After all these wonderful seasons, whenever this show ends, and who knows when it’ll be? Knock on wood, hopefully it’s eight more seasons of incredible stuff. But whenever it’s over, my gift to you is we are doing a rom-com together.
+
+**STRONG:** Man, I would love that.
+
+**McKAY:** So I don’t know what the movie’s about, the rom-com we’re going to do. But the name of the movie is going to be “Lunch With Boo Boo.” I’m going to start putting the story together.
+
+**STRONG:** I’m going to start sending you crazy pitches for “Lunch With Boo Boo.”
+
+_This conversation has been edited and condensed._
+","[('Succession', 'WORK_OF_ART'), ('Jeremy Strong', 'PERSON'), ('Adam McKay', 'PERSON'), ('Too Much Birthday', 'WORK_OF_ART'), ('2022-08-13T15:00:05', 'DATE'), ('Jeremy Strong](https://variety.com', 'PERSON'), ('this August', 'DATE'), ('New York City', 'GPE'), ('Sagaponack', 'GPE'), ('Hamptons', 'LOC'), ('Zoom', 'ORG'), ('Strong', 'PERSON'), ('Adam McKay](https://variety.com', 'PERSON'), ('HBO', 'ORG'), ('Hamptons', 'LOC'), ('Kendall Roy', 'PERSON'), ('McKay', 'PERSON'), ('Strong', 'PERSON'), ('Strong', 'PERSON'), ('Kendall', 'ORG'), ('third', 'ORDINAL'), ('Succession', 'WORK_OF_ART'), ('Waystar Royco', 'ORG'), ('Logan', 'PERSON'), ('Brian Cox', 'PERSON'), ('Kendall', 'PERSON'), ('the season', 'DATE'), ('Kendall', 'ORG'), ('Logan', 'PERSON'), ('1', 'CARDINAL'), ('Kendall', 'PERSON'), ('Jeremy Strong', 'PERSON'), ('Shiv', 'PERSON'), ('Sarah Snook', 'PERSON'), ('Roman', 'PERSON'), ('Kieran Culkin', 'PERSON'), ('Macall Polay', 'PERSON'), ('Variety', 'ORG'), ('40th', 'ORDINAL'), ('7', 'CARDINAL'), ('Too Much Birthday', 'WORK_OF_ART'), ('Kendall', 'PERSON'), ('Too Much Birthday', 'WORK_OF_ART'), ('Billy Joel’s', 'PERSON'), ('Honesty', 'WORK_OF_ART'), ('Naomi', 'PERSON'), ('Annabelle Dexter-Jones', 'PERSON'), ('McKay', 'PERSON'), ('Strong', 'PERSON'), ('Kendall', 'PERSON'), ('Strong', 'PERSON'), ('Emmy', 'WORK_OF_ART'), ('2020', 'DATE'), ('Succession', 'WORK_OF_ART'), ('Jesse Armstrong', 'PERSON'), ('25', 'CARDINAL'), ('TV Academy', 'ORG'), ('July 12', 'DATE'), ('Strong', 'PERSON'), ('McKay', 'PERSON'), ('The Big Short', 'WORK_OF_ART'), ('Variety', 'ORG'), ('Kendall', 'PERSON'), ('Strong', 'PERSON'), ('McKay', 'PERSON'), ('Too Much Birthday', 'WORK_OF_ART'), ('Strong', 'PERSON'), ('Kendall', 'PERSON'), ('Kendall', 'PERSON'), ('ADAM McKAY', 'PERSON'), ('weeks', 'DATE'), ('Lorene Scafaria', 'PERSON'), ('JEREMY STRONG:*', 'PERSON'), ('McKAY', 'PERSON'), ('Lorene', 'PERSON'), ('Jesse', 'PERSON'), ('The Big Short', 'WORK_OF_ART'), ('Season 3', 'LAW'), ('Kendall', 'PERSON'), ('Albert', 'PERSON'), ('Mary Poppins', 'WORK_OF_ART'), ('The Worst Birthday Ever', 'WORK_OF_ART'), ('McKAY', 'PERSON'), ('The Celebration,”](https://www.criterion.com', 'WORK_OF_ART'), ('STRONG', 'PERSON'), ('one', 'CARDINAL'), ('first', 'ORDINAL'), ('Vinterberg', 'PERSON'), ('the whole season', 'DATE'), ('one', 'CARDINAL'), ('Kendall', 'PERSON'), ('Juice Is Loose', 'WORK_OF_ART'), ('first', 'ORDINAL'), ('I’m Blown into a Million Pieces', 'WORK_OF_ART'), ('one', 'CARDINAL'), ('two', 'CARDINAL'), ('McKAY', 'PERSON'), ('Kendall', 'PERSON'), ('Kendall', 'PERSON'), ('McKAY', 'PERSON'), ('Cronus', 'PERSON'), ('Rashid Johnson', 'PERSON'), ('the Anxious Man', 'WORK_OF_ART'), ('LA', 'GPE'), ('Myles Hendrik', 'PERSON'), ('Gucci', 'ORG'), ('One', 'CARDINAL'), ('Jesse Armstrong', 'PERSON'), ('Jesse', 'PERSON'), ('2', 'CARDINAL'), ('Kendall', 'PERSON'), ('Macall Polay', 'PERSON'), ('McKAY', 'PERSON'), ('American Buffalo', 'WORK_OF_ART'), ('Buffalo', 'WORK_OF_ART'), ('Teach', 'PERSON'), ('Jesse', 'PERSON'), ('Rosebud', 'PERSON'), ('Rosebud', 'PERSON'), ('McKAY', 'PERSON'), ('Rosebud', 'PERSON'), ('Rosebud', 'PERSON'), ('Rosebud', 'PERSON'), ('Kendall', 'PERSON'), ('Kendall', 'PERSON'), ('five, six years', 'DATE'), ('Rosebud', 'WORK_OF_ART'), ('Hermes', 'ORG'), ('Ducati', 'ORG'), ('John Derian', 'PERSON'), ('Naomi', 'PERSON'), ('McKAY', 'PERSON'), ('Jeremy', 'PERSON'), ('Lorene', 'PERSON'), ('3', 'CARDINAL'), ('Naomi', 'PERSON'), ('Annabelle Dexter-Jones', 'PERSON'), ('Kendall', 'PERSON'), ('Jeremy Strong', 'PERSON'), ('Macall Polay', 'PERSON'), ('McKAY', 'PERSON'), ('STRONG', 'PERSON'), ('the day', 'DATE'), ('the day', 'DATE'), ('that moment', 'TIME'), ('McKAY', 'PERSON'), ('STRONG', 'PERSON'), ('McKAY', 'PERSON'), ('Kendall', 'PERSON'), ('five days', 'DATE'), ('the beginning days', 'DATE'), ('Jesse', 'PERSON'), ('Kendall', 'PERSON'), ('Kendall', 'PERSON'), ('Kendall', 'PERSON'), ('Kendall', 'PERSON'), ('the day', 'DATE'), ('Greek', 'NORP'), ('Kendall', 'PERSON'), ('McKAY', 'PERSON'), ('Kendall', 'PERSON'), ('one', 'CARDINAL'), ('Jeff', 'PERSON'), ('Elon', 'PERSON'), ('4', 'CARDINAL'), ('Jeremy Strong', 'PERSON'), ('Adam McKay', 'PERSON'), ('Getty Images', 'ORG'), ('McKAY', 'PERSON'), ('Kendall', 'PERSON'), ('Kendall', 'PERSON'), ('Hydra', 'ORG'), ('Grecian', 'NORP'), ('Naomi', 'PERSON'), ('Waystar', 'ORG'), ('Adam', 'PERSON'), ('Ralph', 'PERSON'), ('that night', 'TIME'), ('McKAY', 'PERSON'), ('Kendall', 'PERSON'), ('STRONG', 'PERSON'), ('a day off', 'DATE'), ('any days', 'DATE'), ('the weekends', 'DATE'), ('Matterhorn', 'PRODUCT'), ('McKAY', 'PERSON'), ('this season', 'DATE'), ('another phenomenal season', 'DATE'), ('one', 'CARDINAL'), ('Jesse', 'PERSON'), ('Waystar', 'ORG'), ('Shiv', 'PERSON'), ('Nirvana', 'ORG'), ('Honesty', 'WORK_OF_ART'), ('every day', 'DATE'), ('one', 'CARDINAL'), ('Jesse', 'PERSON'), ('McKAY', 'PERSON'), ('eight more seasons', 'DATE'), ('STRONG', 'PERSON'), ('McKAY', 'PERSON'), ('Lunch With Boo Boo', 'WORK_OF_ART'), ('STRONG', 'PERSON'), ('Lunch With Boo Boo', 'WORK_OF_ART')]",,"```python
+{
+ ""Short Summary"": ""This article discusses the third season of the TV show 'Succession' and specifically focuses on the fourth episode titled 'Too Much Birthday'. The discussion explores the character of Kendall and his complex relationship with his father, Logan. The show's creator, Jesse Armstrong and actor Jeremy Strong discuss the character's journey and the emotional impact of the episode."",
+ ""Labels"": ""tv, drama, episode, season, show, succession, character, actor, interview, analysis"",
+ ""Event"": ""No"",
+ ""Topic"": ""Television"",
+ ""Journal"": ""Variety"",
+ ""Action Needed"": ""None"",
+ ""Author"": ""Adam McKay, Jeremy Strong""
+}
+```","## Structured Summary of Jeremy Strong and Adam McKay Interview on 'Succession': 
+
+**Detailed Summary:**
+
+This article explores Jeremy Strong's portrayal of Kendall Roy in the critically acclaimed HBO series ""Succession"" through a conversation with the show's director, Adam McKay. 
+
+**Key Points:**
+
+* **Kendall's Tragic Arc:** The interview delves into the episode ""Too Much Birthday,"" where Kendall's quest for validation and power culminates in a devastating downfall. 
+* **Strong's Performance:** Strong's meticulous process and deep understanding of Kendall's inner turmoil are highlighted, showcasing his commitment to portraying the character's emotional complexity. 
+* **McKay's Insights:** McKay provides valuable insights into the show's creative process and the challenges of portraying such demanding characters. 
+* **Exploration of Trauma:** The conversation explores the impact of familial trauma and emotional abuse on shaping Kendall's personality and actions. 
+* **Impact and Legacy:** ""Too Much Birthday"" is acknowledged for its powerful exploration of psychological complexities and its contribution to the show's legacy. 
+* **Critical Acclaim and Awards:** Strong's performance has garnered widespread critical acclaim and an Emmy Award for Best Actor.  
+
+**Key Figures:**
+
+* Jeremy Strong (Actor, Kendall Roy)
+* Adam McKay (Director, ""Succession"")
+
+**Data Highlights:**
+
+* ""Succession"" received an impressive 25 Emmy nominations, the highest of all series in 2022. 
+* Strong remains a frontrunner for the prestigious Best Actor award. 
+
+**Implications:**
+
+* Strong's performance solidifies his position as a leading dramatic actor.
+* The episode sheds light on the psychological complexities of wealth and power and their potential consequences. 
+* ""Succession"" continues to be lauded for its nuanced portrayal of human nature and its exploration of societal issues. 
+","['{\n""Detailed Summary"": ""## Jeremy Strong and Adam McKay Analyze \'Succession\'s \'Too Much Birthday\' Episode:\\n\\nThis article delves into a conversation between Jeremy Strong, star of \'Succession,\' and Adam McKay, the show\'s executive producer, focusing on the emotionally charged episode \'Too Much Birthday.\'\\n\\n**Key Points:**\\n* **Kendall\'s Trajectory:** The episode showcases Kendall at his peak and his subsequent fall from grace as his attempted coup against his father, Logan Roy, fails. \n* **Emotional Depth:** Strong portrays Kendall\'s vulnerability and inner turmoil with remarkable depth, capturing both his arrogance and desperation. \n* **McKay\'s Perspective:** McKay praises Strong\'s commitment and the episode\'s ability to evoke complex emotions, ranging from heartbreak to humor.\n* **Strong\'s Preparation:** Strong reveals his meticulous approach to portraying Kendall, drawing inspiration from characters like Uncle Albert from \'Mary Poppins.\'\n* **Award Recognition:** Strong\'s performance has received critical acclaim and an Emmy win for Best Actor in a Drama. \n\\n\\n**Impact and Implications:**\\n* \'Too Much Birthday\' stands out as a powerful exploration of Kendall\'s psychological state and the devastating consequences of his actions.\n* The episode highlights the show\'s ability to balance dark humor with profound emotional depth.\n* Strong\'s portrayal further solidifies his status as a leading dramatic actor. \n\\n\\n**Main Figures:**\\n* Jeremy Strong (Kendall Roy)\n* Adam McKay (Executive Producer)\n\\n\\n**Data Highlights:**\\n* \'Succession\' received 25 Emmy nominations in 2022, leading all series.\n* Strong is considered a frontrunner for the Best Actor award once again.\n\n""\n}', '```{\n""Detailed Summary"": \n""- The episode starts with Kendall believing it will be the best birthday ever but it turns into the nadir of his life. \n- He made the right choice but doesn\'t know how to be a good person. \n- The show is about legacy, the legacy of trauma, and emotional abuse. \n- The characters have internalized a kind of abuse that they enact on themselves. \n- Kendall\'s kids bring him a gift, which was not in the original drafts. \n- The scene is compared to the play ""American Buffalo"" where Teach trashes the junk shop and says: “The world is lies. The world is lies.” \n- Kendall has never had the joy of Rosebud. \n- A lot of text was actually cut from the episode. \n- The only meaningful thing is whatever his kids have made him wrapped in rabbit wrapping paper. \n- Naomi is the only person in the world who gives a shit about him and gave him a generic watch. \n- The watch is a symbol of how Kendall is surrounded by material things but has no real love or support."" \n}\n```', '```python\n{\n ""Detailed Summary"": ""The article discusses Jeremy Strong\'s acting process for the HBO show Succession, where he plays Kendall Roy, a character struggling with addiction and family issues. Strong describes entering into the character\'s mind and trying to inhabit his circumstances. He discusses how the writing and his own empathy for the character guide his performance. Strong also shares his thoughts on the emotional architecture of the show and Kendall\'s chances of escaping his fate. He believes that Kendall is a compelling character because of the high stakes involved and his continuous struggle against his shortcomings. The article also touches on the show\'s portrayal of wealth and how it fails to fulfill Kendall\'s emotional needs, leading to a sense of emptiness and lack.""\n}\n```', '```json\n{\n""Detailed Summary"": ""The article is an interview with actor Jeremy Strong and director Adam McKay who discuss the character of Kendall Roy on the TV show Succession. Strong delves into the character\'s complex psyche and desires, while McKay offers insights into the writing process and upcoming dramatic scenes. Key points of discussion include:\\n\\n**Kendall\'s quest for happiness:** Strong believes that Kendall\'s happiness is contingent on receiving validation and love from his father, a seemingly impossible task. He finds fulfillment in pursuing his ambition and running Waystar, the family media company, but even that may not bring him true happiness.\\n\\n**Kendall\'s regressed state:** Strong describes a scene where Kendall attempts to recapture past happiness by regressing to his childhood using a He-Man blanket and his childhood raccoon doll. This highlights the character\'s vulnerability and emotional complexity.\\n\\n**Kendall\'s difficult journey:** Both Strong and McKay acknowledge the challenges and ordeals Kendall faces in the upcoming season. Strong is committed to authentically portraying the character\'s emotional struggles.\\n\\n**Kendall\'s emotional complexity:** The discussion touches upon the demanding nature of portraying Kendall\'s highly emotional and unpredictable character.  Strong embraces the challenges and describes his acting process as clearing his mind and allowing his unconscious to take over.\\n\\n**Future collaboration:** The interview concludes with a lighthearted but intriguing note as McKay proposes a rom-com collaboration with Strong titled ""Lunch With Boo Boo"" to be undertaken after Succession concludes. \\n\\n**Important figures:** Jeremy Strong (actor), Adam McKay (director), Kendall Roy (character in Succession)\\n\\n**Significant outcomes:** Insights into Kendall\'s character development, the emotional challenges of the role, and the potential for future collaborations.""\n}\n```. \n']"
+Shardul Vaidya,https://www.scientificamerican.com/article/nuclear-testing-downwinders-speak-about-history-and-fear/,,2024-05-01 00:35:00,368a3618-fd82-44c4-a63d-7b40d65b575c,https://r.jina.ai/https://www.scientificamerican.com/article/nuclear-testing-downwinders-speak-about-history-and-fear/,"Title: Nuclear-Testing 'Downwinders' Speak about History and Fear
 
 URL Source: https://www.scientificamerican.com/article/nuclear-testing-downwinders-speak-about-history-and-fear/
 
@@ -33,357 +493,41 @@ Making sure that information remains accessible is part of the point of the Down
 This reporting was supported by the [International Women’s Media Foundation’s](https://www.iwmf.org/) Howard G Buffett Fund for Women Journalists.
 ","[('2022-01-27T14:00:00', 'DATE'), ('Sandra Evans Walsh', 'PERSON'), ('Parowan', 'GPE'), ('Utah', 'GPE'), ('Justin Sorensen', 'PERSON'), ('the University of Utah’s', 'ORG'), ('J. Willard Marriott Library', 'ORG'), ('around 200 miles', 'QUANTITY'), ('the Nevada National Security Site', 'FAC'), ('Between 1945 and 1962', 'DATE'), ('U.S.', 'GPE'), ('200', 'CARDINAL'), ('Nevada', 'GPE'), ('one', 'CARDINAL'), ('53', 'CARDINAL'), ('78', 'CARDINAL'), ('74', 'CARDINAL'), ('Walsh', 'PERSON'), ('Mary Dickson', 'PERSON'), ('Sorensen', 'PERSON'), ('one', 'CARDINAL'), ('Utah', 'GPE'), ('Mormons', 'NORP'), ('Indians', 'NORP'), ('Sorensen', 'PERSON'), ('dozens', 'CARDINAL'), ('the Downwinders of Utah Archive', 'ORG'), ('the J. Willard Marriott Library', 'ORG'), ('American', 'NORP'), ('2011', 'DATE'), ('Senate', 'ORG'), ('January 27', 'DATE'), ('the National Day of Remembrance', 'DATE'), ('the United States', 'GPE'), ('the National Cancer Institute', 'ORG'), ('NCI', 'ORG'), ('Americans', 'NORP'), ('Nevada', 'GPE'), ('1997', 'DATE'), ('Estimated Exposures and Thyroid Doses', 'WORK_OF_ART'), ('first', 'ORDINAL'), ('Sorensen', 'PERSON'), ('Sorensen', 'PERSON'), ('NCI', 'ORG'), ('Sorensen', 'PERSON'), ('the Beehive State', 'GPE'), ('St. George', 'GPE'), ('Cedar City', 'GPE'), ('30-plus', 'CARDINAL'), ('Sorensen', 'PERSON'), ('Sorensen', 'PERSON'), ('Dickson', 'PERSON'), ('Bert the Turtle](https://www.loc.gov/static/programs', 'PERSON'), ('Sorensen', 'PERSON'), ('Sorensen', 'PERSON'), ('Operation Upshot-Knothole', 'EVENT'), ('St. George', 'GPE'), ('the [United Nations Scientific Committee on the Effects of Atomic Radiation](http://www.unscear.org/docs/reports/gareport.pdf)', 'ORG'), ('the [International Physicians for the Prevention of Nuclear War', 'ORG'), ('the Institute for Energy and Environmental Research](https://ieer.org/wp/wp-content/uploads/1991/06/RadioactiveHeavenEarth1991.pdf)', 'ORG'), ('the early 2000s', 'DATE'), ('NCI', 'ORG'), ('the Centers for Disease Control and Prevention', 'ORG'), ('11,000', 'CARDINAL'), ('NCI', 'ORG'), ('Scott Williams', 'PERSON'), ('HEAL Utah', 'ORG'), ('1990', 'DATE'), ('the Radiation Exposure Compensation Act', 'LAW'), ('this summer', 'DATE'), ('RECA', 'ORG'), ('between $50,000', 'MONEY'), ('100,000', 'MONEY'), ('decades', 'DATE'), ('Williams', 'PERSON'), ('The Downwinders of Utah Archive', 'ORG'), ('Sorensen', 'PERSON'), ('Western', 'NORP'), ('the Downwinders of Utah Archive', 'ORG'), ('The day', 'DATE'), ('Dickson', 'PERSON'), ('Sorensen', 'PERSON'), ('the [International Women’s Media Foundation’s](https://www.iwmf.org/) Howard G Buffett Fund for Women Journalists', 'ORG')]",,"```python
 {
- ""Short Summary"": ""This article discusses the experiences of people living near nuclear test sites, known as 'downwinders', and the potential health risks they faced due to radiation exposure. The author also discusses a project aimed at documenting the stories of downwinders."",
- ""Labels"": ""nuclear testing, health risks, downwinders, history, radiation exposure"",
+ ""Short Summary"": ""This article discusses the experiences of people in Utah who lived downwind of nuclear testing sites. It explores their health issues, the compensation they have received, and the importance of remembering the legacy of nuclear testing."",
+ ""Labels"": ""Article, Health, History, Environmental, Political"",
  ""Event"": ""No"",
- ""Topic"": ""Health"",
+ ""Topic"": ""Nuclear testing"",
  ""Journal"": ""Scientific American"",
  ""Action Needed"": ""None"",
- ""Author"": ""N/A""
-}
-```","## Detailed Summary
- 
-### Nuclear Testing Impacts: A Look at the ""Downwinders"" Story
-
-This summary delves into the experiences of ""downwinders,"" individuals exposed to fallout from US nuclear testing in Nevada during the Cold War.
-
-**Key Points:**
-
-* **1945-1962:** US conducted ~200 nuclear tests in Nevada, 100 aboveground detonations.
-* **Fallout Contamination:** Crops, livestock, and human health were impacted by radioactive fallout.
-* **Downwinders at Risk:** Increased risk of thyroid cancer due to exposure to radioactive iodine (I-131).
-* **Senate Resolution 27**: Acknowledged downwinders' suffering and designated National Day of Remembrance.
-* **1997 NCI Study**: Investigated health issues in relation to nuclear testing fallout.
-* **Downwinders of Utah Archive:** Project by the University of Utah collects testimonies and quantifies consequences.
-
-**Impacts and Implications:**
-
-* **Historical Injustice:** Exposes health consequences, overlooked impact on civilians.
-* **Documentation Importance:** Preserves narratives, quantifies testing consequences.
-* **Ethical Concerns:** Highlights potential risks associated with nuclear testing programs.
-
-**Figures Involved:**
-
-* **Downwinders:** Sandra Evans Walsh, Mary Dickson, and others sharing personal testimonies.
-* **Project Lead:** Justin Sorenson, GIS Specialist.
-* **National Cancer Institute:** Conducted health risk research. 
-* **US Senate, Government Agencies:** Nuclear weapons programs involvement.
-
-
-**Additional Notes:**
-
-* Focus on Utah downwinders, but similar impacts globally.
-* Article highlights thyroid cancer, but long-term effects are complex and vary depending on individual exposure, health, and environmental factors.
-
-
-","['```json\n{\n    ""Detailed Summary"": ""## Summary of \'Nuclear-Testing ‘Downwinders’ Speak about History and Fear\' \\n\\n The article discusses the experiences and consequences faced by people who lived in close proximity to nuclear testing sites, particularly in Utah, USA, during the Cold War era. These individuals are referred to as \'downwinders\' due to their exposure to radioactive fallout from the tests.\\n\\n**Key points:**\\n\\n* Between 1945-1962, the US tested around 200 nuclear weapons, with 100 detonations occurring aboveground in Nevada.\\n* Radioactive fallout contaminated the environment, impacting crops, livestock, and ultimately human health when consumed.\\n* Downwinders faced an increased risk of thyroid cancer due to exposure to radioactive iodine (I-131).\\n* The article cites a 2011 Senate resolution acknowledging the downwinder\'s suffering and designating January 27th as the National Day of Remembrance for Downwinders.\\n* A 1997 study by the National Cancer Institute investigated potential links between downwinder health issues and fallout from Nevada tests.\\n* The University of Utah\'s archive project aims to collect testimonies from downwinders, making their stories accessible and quantifying the consequences of US testing.\\n\\n**Impacts and implications:**\\n\\n* The article highlights a historical injustice, exposing the potential health consequences of nuclear testing programs and the overlooked impact on civilian populations.\\n* It emphasizes the importance of documenting the experiences of downwinders and preserving their narratives.\\n* The article raises concerns regarding the ethical implications and potential environmental risks associated with nuclear testing programs.\\n\\n**Main figures involved:**\\n* Sandra Evans Walsh and Mary Dickson, \'Downwinders\' who shared their personal experiences\\n* Justin Sorenson, GIS Specialist and Project Lead for the Downwinders of Utah Archive\\n* National Cancer Institute, responsible for a study investigating health risks to downwinders\\n* US Senate and government agencies involved in nuclear weapons programs\\n\\n**Additional notes:\\n\\n* The study focuses primarily on downwinder experiences from nuclear testing in Nevada. However, it\'s important to acknowledge that nuclear tests have been conducted around the globe, resulting in similar impacts on local populations in various countries.\\n* The article highlights the potential health consequences of radioactive exposure, particularly thyroid cancer. However, it\'s important to note that the long-term effects and potential risks associated with radioactive fallout are complex, and might vary depending on factors like individual exposure levels, health status, and other environmental conditions.""\n}\n```', '## Detailed Summary \n\n**Project:** Downwinders of Utah Archive\n\n**Content:** \n\n* Interviews with individuals impacted by nuclear testing in Utah\n* Geospatial data and analysis of fallout patterns\n* Visualizations of nuclear test impacts, including mushroom cloud heights, air drops, and milk consumption statistics\n* Interactive timeline of the atomic age\n\n**Key Findings:**\n\n* Interviews corroborated geospatial data\n* Fallout from Operation Upshot-Knothole, particularly the ""Dirty Harry"" test, disproportionately impacted St. George\n* Studies by UNSCEAR, IPPNW, IEER, and NCI link radiation exposure to cancer\n* NCI report estimated 11,000 excess deaths from fallout\n* NCI calculator allows individuals to estimate their thyroid dose and cancer risk\n\n**Impact:**\n\n* Raised awareness of the public health consequences of nuclear testing\n* Provided evidence for compensation claims under RECA\n* Highlighted the need for transparency and accountability regarding nuclear testing\n\n**Future Plans:**\n\n* Resume interviews paused during the pandemic\n* Expand the project to other Western states\n\n**Significance:**\n\n* The Downwinders of Utah Archive serves as a valuable resource for preserving the history of nuclear testing and its impact on individuals and communities.\n* The project contributes to ongoing efforts to address the health and environmental consequences of nuclear testing.\n* The archive promotes transparency and accountability, ensuring that the lessons learned from the nuclear age are not forgotten. \n']"
-Shardul Vaidya,https://theprint.in/opinion/bihars-chirand-has-a-4000-year-history-its-the-rising-sun-of-indias-neolithic-culture/1954039/,,2024-05-01 00:35:00,https://r.jina.ai/https://theprint.in/opinion/bihars-chirand-has-a-4000-year-history-its-the-rising-sun-of-indias-neolithic-culture/1954039/,"Title: Bihar's Chirand has a 4000-year history. It's the 'rising sun' of India's Neolithic culture
-
-URL Source: https://theprint.in/opinion/bihars-chirand-has-a-4000-year-history-its-the-rising-sun-of-indias-neolithic-culture/1954039/
-
-Published Time: 2024-02-05T08:06:11+00:00
-
-Markdown Content:
-The story of continuity and change in a country with diverse ecosystems varies from region to region. It is important to consider the microhabitats and landscapes that shape the cultures and traditions we inherit. Some regions have been occupied for many millennia, resulting in a long history with no breaks or gaps in the chronology. However, there are some examples in archaeology of sites that have been occupied for a long time but have had gaps in occupation; the infamous site of [Hastinapura](https://theprint.in/opinion/bihars-chirand-has-a-4000-year-history-its-the-rising-sun-of-indias-neolithic-culture/1954039/blank) is a prime example of such chrono-cultural history.
-
-There are also examples of a region with multiple sites deciphering the story of continuity and change, the classical example of this would be the sites of [Mehrgarh](https://www.jstor.org/stable/j.ctt1b7x6xx), [Nausharo](https://theprint.in/opinion/bihars-chirand-has-a-4000-year-history-its-the-rising-sun-of-indias-neolithic-culture/1954039/blank) and [Pirak](https://www.tandfonline.com/doi/pdf/10.1080/11263509609439562), together showcasing the evolution of culture from early farming to the Bronze Age. Therefore, it is not necessary that an individual site will have to give an entire picture of the region’s historicity; there can be multiple sites in a region that can offer you a glimpse of shifts in the cultural paradigm.
-
-[Chirand,](https://ehrafarchaeology.yale.edu/traditions/aq50/documents/010) an archaeological site in Bihar, is a combination of these two distinct examples. The site narrates a regional evolution of society from the Neolithic to the Early Historical period after which it was deserted till the Mediaeval period. But when combined with other sites on the banks of the Ganga, such as [Maner](https://www.telegraphindia.com/bihar/new-year-date-for-maner-excavation-archaeologists-expect-to-find-artefacts-dating-back-to-neolithic-age-and-pal-period/cid/349766), [Chechar](https://www.hindustantimes.com/india/relics-of-india-s-golden-age-discovered-in-bihar/story-UFBBSlznIEiQpdjvxLqzRN.html) and Senuar, it provides valuable information on the over-4000-year history of the region.
-
-* * *
-
-_**Also Read:** [Is there a ‘void’ in Indian history? Brahmagiri, Maski hold the answer](https://theprint.in/opinion/is-there-a-void-in-indian-history-brahmagiri-maski-hold-the-answer/1933821/)  
-_
-
-* * *
-
-### **The Rising Sun of Bihar**
-
-Once called the ‘rising sun of the neolithic culture in India’ by archaeologist [FR Allchin](https://www.cambridge.org/core/journals/bulletin-of-the-school-of-oriental-and-african-studies/article/abs/f-r-allchin-piklihal-excavations-andhra-pradesh-government-archaeological-series-no-1-xvii-154-pp-64-plates-hyderabad-government-of-andhra-pradesh-1960-rs-15/899F551FD0CA064CBCB51E995001D146), Chirand is an archaeological site located in the Saran district of Bihar. The site was first reported after a surface study in the late 1800s— when Mediaeval structures and Buddhist sculptures were found. The initial excavations, conducted in 1962 by the Directorate of Archaeology and Museum, Bihar, lasted for seven field seasons till 1972-73.
-
-A five-fold cultural sequence was revealed during the excavation which was broadly categorised as –
-
-**Period I** – Neolithic (early food-producing period)
-
-**Period II** – Chalcolithic (Copper-using society)
-
-**Period III** – Northern Black Polished Ware-associated culture (linked with the rise of ancient republics)
-
-**Period IV**– Historical period (from 1st century to 3rd century BCE)
-
-**Period V**– Late Historical
-
-The neolithic society at Chirand settled on the alluvial deposit of the Ganga River in circular houses made of wild reeds. A circular floor about four metres in diameter with a series of open hearths, a few post-holes near the floor and a few burnt chunks of clay with a reed impression are valuable pieces of evidence that speak volumes about neolithic settlement style and social matrix.
-
-Bone tools, styli, tanged and socketed arrowheads, bangles of ivory and tortoise bone, and many bone ornaments from the Neolithic phase are indicative of a highly skilled society which focused on utilising animal bones in many ways. Apart from this, beads made of chalcedony, agate, jasper, marble, chert, steatite and faience—which were sources from across the subcontinent—link the settlers of Chirand to the domestic trade matrix. Material like faience must be the result of exchange with the Harappans in the west, whereas agate was probably coming from Gujarat.
-
-The evidence of rice, wheat, barley and masoor [at Chirand](https://ehrafarchaeology.yale.edu/traditions/aq50/documents/008) suggests that people, during Period I, were cultivating cereals and legumes. Fish also was part of their diet.
-
-Such a complex society of early farmers in eastern India at around c.2400 BCE is a marker of indigenous growth of culture, which is connected to its contemporary settlements around Chirand and across the Ganga in the west.
-
-* * *
-
-_**Also Read:** [Calling Harappan Civilisation ‘Vedic Saraswati’ is extreme—learn to hold a trowel first](https://theprint.in/opinion/calling-harappan-civilisation-vedic-saraswati-is-extreme-learn-to-hold-a-trowel-first/1914084/)_
-
-* * *
-
-### **Evolution to copper**
-
-The inclusion of metal is a sign of evolution, both of society and of technology. Copper was the first metal which slowly penetrated the social fabric i[n Chirand.](https://www.jstor.org/stable/44145448) This brought about the onset of the Chalcolithic period.
-
-The early dates of the Copper Age—which succeeded the early farming period and paved the way for iron—come from the western half of the subcontinent. But this may be a generalised statement because the juncture when the Neolithic ends and Chalcolithic begins might not follow a linear pattern in every microcosm. It can merge in the initial stages before paving the way for a full-fledged Copper Age, just like at [Maski](https://theprint.in/opinion/is-there-a-void-in-indian-history-brahmagiri-maski-hold-the-answer/1933821/), Karnataka. Moreover, in some instances, they co-exist, as we have seen in the case of [Burzahom](https://theprint.in/opinion/buzahom-can-change-story-of-evolution-until-recently-it-was-a-kashmiri-t20-cricket-ground/1474410/) and Harappa.
-
-In the case of Chirand, both scenarios stand true. At the site, the Neolithic period slowly transitions into the Chalcolithic period. But when placing the site with its contemporary sites in the same region as Maner, the [Neolithic period of Chirand](https://www.jstor.org/stable/44145448) co-exists with the Chalcolithic period of Maner which is dated to 2600 BCE.
-
-The Chalcolithic period in Chirand is dated around c.2000 to 1950 BCE and covers about 5.5m thickness of the total deposit. The copper-using people lived in houses made of reeds and bamboo with mud plaster and floors made of burnt earth. Circular hearths are noted in the earliest levels of the deposit. Secondary burials were also recorded during the excavation.
-
-Bone tools continue to make an appearance along with stone beads. A few corroded pieces of copper were excavated along with a few pear-shaped terracotta beads.
-
-This phase slowly merges into Period III— the Iron Age.
-
-* * *
-
-_**Also Read:** [Archaeological tourism is on the rise. Govt to citizens, India must learn to handle the sites](https://theprint.in/opinion/heritage-tourism-has-moved-to-archaeology-but-indians-havent-learnt-good-practices-yet/1870345/)_
-
-* * *
-
-### **Towards urbanism** 
-
-If copper marked the evolution of society and a technological shift in metallurgy, iron is credited with leading the society into urbanism. The Iron Age in the subcontinent is a much-debated topic. While the exact date of the introduction of iron is still debatable, its inclusion in the material culture is considered important— so much so that early scholars called the Iron Age the foundation of second urbanism in India.
-
-At [Chirand](https://www.jstor.org/stable/44145448), the introduction of iron is coupled with the presence of Northern Black Polish Ware which, like iron, is a product of advanced kilning technique. Iron implements found at the site include sickles, axes, ploughshares, daggers, lances, knife blades, etc. Beads of semi-precious stones and terracotta beads are also part of the material assemblage at the site. Terracotta human and animal figures including the naga figurine are important findings. Copper antimony rods, bone arrowheads, copper-punch marked coins and cast coins were also found during this period. What is interesting is that Neolithic celts \[a tool from the period\] were also present in this period. A drastic change in settlement pattern was in the building material. Baked brick structures start to appear, with mud walls and rammed floors. Period III was followed by Period IV—from 1st century BCE to 3rd century CE—which was ruled by the Kushana dynasty. During this period big residential complexes and monastic buildings are reported. Several structural phases are noted, one of which included remnants of a monastic kitchen which yielded a terracotta torso of Hariti. An important discovery of this period was the Kushana copper coin hoard of 88 coins, and a terracotta sealing with the early Brahmi script. Period V is the last phase which revealed that the site was deserted after 3rd century CE and reoccupied after a considerable gap during the late historical and early Mediaeval period. The periodisation is indicated by the recovery of a pot with five gold coins of the Kalachuri dynasty ruler Gangeyadeva dated c.1045 CE, and the presence of an unidentified sculpture from the Pala period. ### **Continuity and change** At [Brahmagiri](https://theprint.in/opinion/is-there-a-void-in-indian-history-brahmagiri-maski-hold-the-answer/1933821/) and [Maski](https://theprint.in/opinion/is-there-a-void-in-indian-history-brahmagiri-maski-hold-the-answer/1933821/), cultures changed and the landscape evolved with time. Similarly, at Chirand, early neolithic farmers co-existed and evolved alongside the copper-using society, and at the same time distinctively showed how easily cultures change and merge at one location. From humble wattle and daub structures emerged rammed floors, community hearths, and burnt bricks, changing the settlement style which eventually became the hallmark of urbanism. The Kushana occupation that follows, is also an example of how the region, and most importantly Chirand itself, is [significant](https://www.jstor.org/stable/44145448) – perhaps due to political reasons or maybe just due to trade.
-
-[Today](https://www.hindustantimes.com/cities/patna-news/famous-archaeological-site-in-bihar-faces-threat-of-erosion-101624801867323.html), Chirand is rapidly being consumed by the Ganga, recently fresh excavations opened up a glorious chapter of the history of eastern India, leaving us waiting for more data.
-
-_An earlier version of this article wrongly identified an archaeological site as Chirand. This has been corrected._
-
-_Disha Ahluwalia is an archaeologist and junior research fellow at the Indian Council Of Historical Research. She tweets @ahluwaliadisha. Views are personal._
-
-(Edited by Theres Sudeep)
-","[('Bihar', 'GPE'), ('Chirand', 'GPE'), ('4000-year', 'DATE'), ('India', 'GPE'), ('Neolithic', 'NORP'), ('2024-02-05T08:06:11', 'DATE'), ('many millennia', 'DATE'), ('the Bronze Age', 'DATE'), ('Bihar', 'GPE'), ('two', 'CARDINAL'), ('the Neolithic to the Early Historical period', 'DATE'), ('the Mediaeval period', 'DATE'), ('Ganga', 'LOC'), ('new-year-date', 'DATE'), ('Senuar', 'PERSON'), ('Indian', 'NORP'), ('Brahmagiri', 'PERSON'), ('Maski', 'PERSON'), ('The Rising Sun of Bihar', 'WORK_OF_ART'), ('Chirand', 'GPE'), ('Saran', 'GPE'), ('Bihar', 'GPE'), ('the late 1800s', 'DATE'), ('Mediaeval', 'NORP'), ('Buddhist', 'NORP'), ('1962', 'DATE'), ('the Directorate of Archaeology and Museum', 'ORG'), ('Bihar', 'GPE'), ('seven field seasons', 'DATE'), ('1972-73', 'DATE'), ('five-fold', 'CARDINAL'), ('III', 'CARDINAL'), ('IV', 'CARDINAL'), ('1st century to 3rd century BCE', 'DATE'), ('Chirand', 'GPE'), ('the Ganga River', 'LOC'), ('the Neolithic phase', 'DATE'), ('Chirand', 'GPE'), ('Harappans', 'NORP'), ('Gujarat', 'GPE'), ('Period I', 'DATE'), ('India', 'GPE'), ('around c.2400 BCE', 'DATE'), ('Chirand', 'GPE'), ('Ganga', 'LOC'), ('Harappan Civilisation', 'ORG'), ('the Chalcolithic period', 'DATE'), ('the Copper Age', 'DATE'), ('Chalcolithic', 'DATE'), ('Karnataka', 'GPE'), ('Harappa', 'PERSON'), ('Chirand', 'GPE'), ('the Neolithic period', 'DATE'), ('the Chalcolithic period', 'DATE'), ('Maner', 'GPE'), ('the [Neolithic period of Chirand](https://www.jstor.org/', 'DATE'), ('the Chalcolithic period', 'DATE'), ('Maner', 'GPE'), ('2600 BCE', 'DATE'), ('The Chalcolithic period in Chirand is', 'DATE'), ('c.2000 to 1950 BCE', 'DATE'), ('about 5.5m', 'QUANTITY'), ('Period III—', 'DATE'), ('the Iron Age', 'DATE'), ('India', 'GPE'), ('indians', 'NORP'), ('The Iron Age', 'DATE'), ('the Iron Age', 'DATE'), ('second', 'ORDINAL'), ('India', 'GPE'), ('Neolithic', 'DATE'), ('Period III', 'DATE'), ('1st century BCE to 3rd century CE', 'DATE'), ('the Kushana dynasty', 'DATE'), ('Hariti', 'PERSON'), ('Kushana', 'NORP'), ('88', 'CARDINAL'), ('Brahmi', 'NORP'), ('V', 'CARDINAL'), ('3rd century CE', 'DATE'), ('five', 'CARDINAL'), ('Kalachuri', 'NORP'), ('Gangeyadeva', 'PERSON'), ('c.1045 CE', 'DATE'), ('the Pala period', 'DATE'), ('Chirand', 'GPE'), ('Kushana', 'NORP'), ('Chirand', 'LOC'), ('bihar', 'GPE'), ('Chirand', 'GPE'), ('India', 'GPE'), ('Chirand', 'GPE'), ('Disha Ahluwalia', 'PERSON'), ('the Indian Council Of Historical Research', 'ORG'), ('@ahluwaliadisha', 'PERSON'), ('Theres Sudeep', 'PERSON')]",,"```json
-{
- ""Short Summary"": ""- **2-line description of the main content:** Archaeological evidence suggests that Chirand, a 4000-year-old archaeological site in Saran, Bihar, may be the 'rising sun' of India's Neolithic culture. Through its cultural phases and excavated artifacts, insights are gained into the lifestyle, trade alliances, and technological evolution of the ancient inhabitants of the region."",
- ""Labels"": ""archaeological, history, India, Bihar, culture, Neolithic"",
- ""Event"": ""No"",
- ""Topic"": ""Archaeology"",
- ""Journal"": ""ThePrint"",
- ""Action Needed"": ""None"",
- ""Author"": ""Disha Ahluwalia""
+ ""Author"": ""Michael Lemonick"" 
 }
 ```","```json
 {
- ""Detailed Summary"": ""Chirand, an archaeological site in Saran District, Bihar, boasts over four millenia of human activity. Discovered in the late 19th century, it has revealed five cultural periods:\n\n**1. Neolithic Period:** Characterized by circular reed houses, inhabitants subsisted on agriculture and engaged in interregional trade using diverse beads. Remains of fish, fauna, cereals and lentils point towards a well-evolved food structure.\n\n**2. Chalcolithic Period:** Introduction of copper brought about societal changes.\n\n**3. NBP Ware Period:** The use of Northern Black Polished Ware flourished alongside advanced cultures and ancient republics suggesting economic prosperity.\n\n**4. Historical Period:** Extending from 1st to 3rd century BC, this era saw an advanced civilization which is proven by intricate discoveries at the site.\n\n**5. Late Historical Period:** The period after the 3rd century BC, indicating continuity of human inhabitants.\n\nChirand, along with other archaeological sites, offers immense insights into regional heritage, cultural shifts and historic evolution. Famed Archeologist, F.R. Allchin, considered Chirand as the 'dawn of Indian neolithic culture' reflecting its significance during that era. Recent surveys have unveiled evidence implying human activity as early as 8,000 - 7,000 BC, redefining the site's historical importance which is being further investigated.""
+  ""Detailed Summary"": {
+    ""Content"": ""The content focuses on the history of US nuclear tests conducted in or around Utah. It discusses the impacts on downwinders and health-related consequences, highlighting the significance of documentation."", 
+    ""Data"": {
+      ""Nuclear Testing Numbers"": ""Between 1945 to 1962, 200 US tests were detonated above ground, 100 of them in/near Utah.""
+    },
+    ""Events"": {
+      ""National Downwinder Day"": ""In 2011, Senate designated Jan 27th as a day of remembrance for downwinders.""    
+    },
+    ""Figures"": {
+      ""Excess Deaths Estimate"": ""An NCI report estimates 11,000 deaths due to fallout.""        
+    },
+    ""Implications"": {
+      ""Cancer Risk from Fallout"": ""Investigations have linked fallout exposure with increased cancer risks.""      
+    },
+    ""Main Points"": {
+      ""The article discusses the historical nuclear tests in Nevada with specific emphasis on their effects on Utah residents."", 
+      ""It mentions research linking fallout exposure from tests with potential health consequences, especially cancer."",
+      ""It also emphasizes the significance of the Downwinders of Utah Archive Project in documenting the experiences and medical impacts."", 
+    },
+    ""Outcomes"": {
+      ""Federal Compensation for Downwinders"": ""The Radiation Exposure Compensation Act provides compensation for downwinders, although cases require specific documentation."",    
+    },
+    ""Significant Conclusions"": {
+      ""The nuclear tests had substantial health impacts on downwinders, making the archive a vital resource."", 
+    }
+  }
 }
-```","['```json\n{\n ""Detailed Summary"": ""Chirand, an archaeological site located in Saran district, Bihar, has a comprehensive history spanning over 4,000 years. It was initially identified in the late 1880s during surface investigations, which uncovered medieval structures and Buddhist sculptures. Subsequent excavations between 1962 and 1973 revealed a five-phase cultural sequence: \\n\\n* **Period I (Neolithic)**: This early food-producing phase saw inhabitants residing in circular houses made of wild reeds on the alluvial deposits of the Ganga River. Evidence suggests a skilled society that utilized animal bones and engaged in domestic trade as evidenced by beads made from various materials sourced across the subcontinent.\\n\\n* **Period II (Chalcolithic)**: The introduction of copper during this period brought about significant changes. \\n\\n* **Period III (Northern Black Polished Ware-associated culture)**: This period, associated with the rise of ancient republics, witnessed the use of distinctive pottery known as Northern Black Polished Ware. \\n\\n* **Period IV (Historical Period)**: The period from the 1st century to 3rd century BCE marks the historical period.\\n\\n* **Period V (Late Historical)**: This period marks the later historical phase at Chirand. \\n\\nCombined with other sites like Maner and Chechar, Chirand offers valuable insights into the region\'s rich cultural heritage and historical evolution. Notably, archaeologist F.R. Allchin called it the \'rising sun of the neolithic culture in India\' due to its significant contributions during that period.""\n}\n```', ""## Detailed Summary:\n\n**Chirand's Cultural Evolution:**\n\n* **Period I (c.2400 BCE):** Evidence of rice, wheat, barley, masoor, fish consumption, and complex social structures point to early farming communities.\n* **Period II (c.2000-1950 BCE):** Transition from Neolithic to Chalcolithic with the introduction of copper. Reed and bamboo houses, mud plaster, burnt earth floors, circular hearths, secondary burials, bone tools, stone beads, and pear-shaped terracotta beads are found.\n* **Period III (Iron Age):** Introduction of iron and Northern Black Polish Ware marks a technological shift and leads towards urbanism. Iron implements, semi-precious stone beads, terracotta figures, copper antimony rods, bone arrowheads, copper coins, and cast coins are discovered. Baked brick structures with mud walls and rammed floors appear.\n* **Period IV (1st century BCE to 3rd century CE):** Kushana dynasty rule. Large residential complexes, monastic buildings, remnants of a monastic kitchen with a terracotta torso of Hariti, Kushana copper coin hoard, and terracotta sealing with early Brahmi script are found.\n* **Period V (after 3rd century CE):** Site deserted and reoccupied during the late historical and early Mediaeval period.\n\n**Key Points:**\n\n* Chirand's cultural evolution reflects a progression from early farming communities to urbanism.\n* Copper and iron introduction mark significant technological advancements.\n* Evidence of diverse material culture, including tools, ornaments, and pottery, provides insights into the lives of the people.\n* Architectural changes from Period II onwards indicate increasing societal complexity.\n\n**Implications:**\n\n* Chirand's archaeological findings offer valuable information about the development of early societies in eastern India.\n* The site provides insights into the cultural and technological advancements that occurred during the Neolithic, Chalcolithic, and Iron Ages.\n* The study of Chirand contributes to a better understanding of the evolution of urbanism in the Indian subcontinent.\n\n**Note:** This summary is based solely on the provided article and does not include any external information or references. \n"", '```json\n{\n ""Detailed Summary"": ""Chirand, an archaeological site in Bihar, has a rich history spanning centuries. Excavations have uncovered evidence of settlements from the Neolithic period, as well as later occupations by the Kushanas. The site\'s evolution shows how cultures changed and merged over time, with influences from different periods visible in its architecture and artifacts. Recent excavations have revealed new insights into the history of eastern India, highlighting the region\'s importance and leaving researchers wanting more. However, the site is currently under threat from erosion by the Ganga River.""\n}\n```']"
-Shardul Vaidya,https://www.artandobject.com/news/how-money-laundering-works-art-world,,2024-05-01 00:35:00,https://r.jina.ai/https://www.artandobject.com/news/how-money-laundering-works-art-world,"Title: How Money Laundering Works In The Art World | Art & Object
-
-URL Source: https://www.artandobject.com/news/how-money-laundering-works-art-world
-
-Markdown Content:
-Works of art have long been identified, and sometimes even romanticized, as ideal ways for racketeers to [launder money](https://www.artandobject.com/news/treasury-dept-warns-sanctions-art-world). There’s a thread of logic here: the art world typically accommodates those that want to anonymously buy high-dollar paintings, and on top of that, the industry allows large cash deals. For those looking to [launder money](https://www.artandobject.com/news/treasury-dept-warns-sanctions-art-world), it’s difficult to conjure up a more attractive set of circumstances than those.
-
-There also seems to be plenty of instances where art has played a role in the act of money laundering. Consider that when the [Mexican](https://www.artandobject.com/press-release/one-greatest-living-mexican-printmakers-celebrates-mexican-revolution) government passed a law in the early 2010s to require more information about buyers, and how much cash could be spent on a single piece of art, the market cratered, as sales dipped [70 percent](https://www.washingtonpost.com/world/mexican-art-galleries-suffer-as-drug-money-laws-end-anonymous-cash-buys/2014/09/16/4e5dc6c4-3d41-11e4-a430-b82a3e67b762_story.html) in less than a year. Many believed that was because Mexican cartel rings had previously been the biggest buyers in the market.
-
-About the Author
-
-[Charlie Pogacar](https://www.artandobject.com/authors/charlie-pogacar)
----------------------------------------------------------------------------
-
-**Charlie Pogacar** is the Custom Content Associate Editor at Journalistic, Inc. He lives in North Carolina with his wife, Abby, and boxer pup, Frankie.
-
-Subscribe to our free e-letter!
--------------------------------
-
-[Latest News](https://www.artandobject.com/news)
-------------------------------------------------
-
-[![Image 1: ""Perspective"", 1923. Painting by Tamara de Lempicka.](https://cdn.artandobject.com/sites/default/files/styles/image_5_column/public/lempicka-perspective-1923.jpg?itok=Pe6su-TR)](https://www.artandobject.com/news/artist-tamara-de-lempicka-inspired-musical-nominated-tony-awards)
-
-Once known for her stylized …
-
-[![Image 2: Clare Rojas' ""The Stallion"", 2024, Oil on linen, Courtesy of Jessica Silverman](https://cdn.artandobject.com/sites/default/files/styles/image_5_column/public/stallion-oil-linen.jpg?itok=VZj61k9g)](https://www.artandobject.com/news/motif-exhibition-clare-rojas-belle-balls)
-
-San Francisco-based artist …
-
-[![Image 3: Portrait of Fräulein Lieser, unsigned. Painted by Gustav Klimt in 1917.](https://cdn.artandobject.com/sites/default/files/styles/image_5_column/public/1portrait-fraulein-lieser-klimt.jpg?itok=ivjypFbp)](https://www.artandobject.com/news/rediscovered-klimt-painting-goes-auction-vienna)
-
-A portrait, originally thought to be lost, painted by Austrian…
-
-[![Image 4: An example product of art therapy. Leire Markinez Calvo's painting based on her feelings. 2021.](https://cdn.artandobject.com/sites/default/files/styles/image_5_column/public/leiremarkinezpainting.jpg?itok=4Wv6eVLP)](https://www.artandobject.com/news/introduction-art-therapy-its-history-and-practice)
-
-Art has been used as an outlet for the …
-
-[![Image 5: Archie Moore, Australia Pavilion at Venice Biennale 2024, image by Andrea Rossetti.](https://cdn.artandobject.com/sites/default/files/styles/image_5_column/public/archie-moore-australia-pavilion-venice-biennale-2024.jpg?itok=hef-ulGs)](https://www.artandobject.com/news/ode-woven-arts-2024-venice-biennale-golden-lion-awards)
-
-The 60th iteration of the …
-","[('treasury-dept', 'ORG'), ('treasury-dept', 'ORG'), ('the early 2010s', 'DATE'), ('70 percent](https://www.washingtonpost.com', 'PERCENT'), ('less than a year', 'DATE'), ('Mexican', 'NORP'), ('Charlie Pogacar](https://www.artandobject.com', 'PERSON'), ('Charlie Pogacar', 'PERSON'), ('Journalistic, Inc.', 'ORG'), ('North Carolina', 'GPE'), ('Abby', 'PERSON'), ('1', 'CARDINAL'), ('Perspective', 'WORK_OF_ART'), ('1923', 'DATE'), ('Tamara de Lempicka.](https://cdn.artandobject.com/', 'PERSON'), ('tamara-de-lempicka', 'PERSON'), ('2', 'CARDINAL'), (""Clare Rojas'"", 'PERSON'), ('The Stallion', 'WORK_OF_ART'), ('2024', 'DATE'), ('Jessica Silverman](https://cdn.artandobject.com', 'PERSON'), ('clare-rojas-belle-balls', 'PERSON'), ('3', 'CARDINAL'), ('Fräulein Lieser', 'PERSON'), ('Gustav Klimt', 'PERSON'), ('Austrian', 'NORP'), ('4', 'CARDINAL'), (""Leire Markinez Calvo's"", 'PERSON'), ('5', 'CARDINAL'), ('Archie Moore', 'PERSON'), ('Australia Pavilion', 'FAC'), ('Venice Biennale 2024', 'EVENT'), ('Andrea Rossetti.](https://cdn.artandobject.com', 'PERSON'), ('60th', 'ORDINAL')]",,"## Content Analysis: How Money Laundering Works in the Art World
-
-**Short Summary:**
-
-* The article explains how money laundering operates in the art world, highlighting the industry's susceptibility to this activity due to large cash purchases and anonymous buyers.
-* It cites an example of the Mexican art market taking a significant hit after regulations cracking down on anonymous cash transactions were implemented, suggesting the involvement of cartels in money laundering through art.
-
-**Labels:**
-
-illegal activity, art world, money laundering, finance, crime, economics, market analysis
-
-**Event:**
-
-No
-
-**Topic:**
-
-Money Laundering, Art Market
-
-**Journal:**
-
-Art & Object 
-
-**Action Needed:**
-
-None
-
-**Author:**
-
-Charlie Pogacar, Custom Content Associate Editor at Journalistic, Inc. 
-","```json
-{
-  ""Detailed Summary"": ""## The Art World: A Haven for Money Laundering
-
-   **Key Points:**
-
-   * High-value art transactions offer anonymity and facilitate easy concealment of illicit funds.
-   * The art market's opaque nature allows launderers to operate with minimal scrutiny.
-   * Regulations like those implemented in Mexico, requiring buyer information and cash limits, can effectively curb money laundering in the art world.
-
-   **Main Events:**
-
-   * Stricter regulations in the Mexican art market led to a drastic 70% decrease in sales, indicating a significant withdrawal of launderers.
-
-   **Outcomes:**
-
-   * The Mexican case demonstrates the art market's vulnerability to money laundering and the effectiveness of regulations in combating it.
-   * The article underlines the need for enhanced transparency and accountability in the art world to prevent its misuse for illicit activities.
-
-   **Impact:**
-
-   * Money laundering via art poses a serious threat to the art market's integrity and stability.
-   * Collaborative efforts from governments, art market participants, and financial institutions are crucial to combating art-based money laundering.
-   * Increased due diligence, transparency, and regulatory oversight are essential to mitigate the risks associated with this illicit activity.
-
-   **Note:** This summary is based solely on the provided article and does not incorporate external information or analysis."" 
-}
-``` 
-","['```json\n{\n  ""Detailed Summary"": ""## Art as a Tool for Money Laundering: A Detailed Look\n\n   The art world presents a unique and attractive avenue for money laundering due to its inherent features that facilitate anonymity and large cash transactions. \n\n   **Key points:**\n\n   * Art purchases often involve high dollar amounts, making it easier to conceal illicit funds.\n   * The art market typically allows for anonymous buying, further shielding the identity of the launderer.\n   * Instances like the Mexican art market crash following regulations on cash purchases suggest the significant role of illicit money in the art world.\n\n   **Main events:**\n\n   * Implementation of stricter regulations in the Mexican art market, requiring buyer information and limits on cash transactions, led to a 70% drop in sales, indicating the withdrawal of launderers from the market.\n\n   **Outcomes:**\n\n   * The Mexican case highlights the vulnerability of the art market to money laundering and the potential effectiveness of regulations in curbing such activities.\n   * The article emphasizes the need for increased transparency and accountability in the art world to prevent its exploitation for illicit purposes.\n\n   **Significant figures:**\n\n   * **Charlie Pogacar:** Custom Content Associate Editor at Journalistic, Inc., author of the article.\n\n   **Implications:**\n\n   * Money laundering through art poses a significant threat to the integrity and stability of the art market.\n   * Combating money laundering requires collaborative efforts from governments, art market participants, and financial institutions.\n   * Increased due diligence, transparency, and regulatory oversight are crucial to mitigate the risks associated with art-based money laundering.\n\n   **Note:** This summary is based solely on the provided article and does not include any external information or analysis."" \n}\n```']"
-Shardul Vaidya,https://theathletic.com/5233957/2024/01/29/sacramento-kings-domantas-sabonis-interview/,,2024-05-01 00:35:00,https://r.jina.ai/https://theathletic.com/5233957/2024/01/29/sacramento-kings-domantas-sabonis-interview/,"Title: Domantas Sabonis unplugged: Kings’ big man is an NBA mainstay, but don’t tell him that
-
-URL Source: https://theathletic.com/5233957/2024/01/29/sacramento-kings-domantas-sabonis-interview/
-
-Published Time: 2024-01-29T11:00:03.000Z
-
-Markdown Content:
-[Domantas Sabonis](https://theathletic.com/nba/player/domantas-sabonis-P1iXY4NkyOp3D6Vw/) is slightly paranoid.
-
-Talk to those who know him best, and you’ll learn all about the disproportionate desperation that has driven him for all these years. From Oklahoma City to Indiana to this Sacramento stop that has gone so well [since he arrived in February 2022](https://theathletic.com/3511396/2022/02/08/kings-finalize-6-player-trade-to-acquire-domantas-sabonis-tyrese-haliburton-buddy-hield-to-pacers/), with three All-Star berths in between and combined earnings that will surpass $282 million by the end of his current contract, Sabonis has harbored fears of an [NBA](https://theathletic.com/nba/) fallout that should have faded by now. Especially, one might incorrectly assume, after his latest stellar season in which he was dominant and dynamic enough to finish seventh in MVP voting.
-
-So when the 27-year-old spent last summer ramping up his training like never before, inviting [Sacramento Kings](https://theathletic.com/nba/team/sac-kings/) assistant coach Doug Christie to lead his offseason regimen near his homes in Napa, Calif., and Los Angeles while the big man overhauled his diet as a way to increase his strength, no one within his inner circle was surprised. Once he healed up from all the bumps and ([Draymond Green](https://theathletic.com/nba/player/draymond-green-qWchQbJAR0YQNMyV/)–[caused](https://theathletic.com/4423463/2023/04/18/warriors-kings-game-2-score-draymond-green/)) bruises that came with that physical first-round playoff loss to the [Golden State Warriors](https://theathletic.com/nba/team/warriors/), and with the Kings having decided to give him a five-year, $217 million extension that would secure his status as a massive piece of their revived program, he turned his attention to the annual summertime task of proving his worth. Again.
-
-“I always feel that way,” Sabonis told _The Athletic_ with a self-aware chuckle in a recent phone interview. “My wife doesn’t like my mentality sometimes. But I’m always thinking that way — not of the worst (case-scenario), but like, ‘What if it ended today?’ Or ‘What if this or that happened?’ So I’ve gotta do the most (possible with his time).
-
-“There’s a lot to get to work on. I know the numbers may show otherwise, but I feel like there’s so much left where I can help my teammates on the court and win games. That’s exciting as a player. Like, if I work on this, and I can do this in this situation, then that’s going to help the team. I’m always thinking of that.”
-
-The question this week, as Sabonis is well aware, is what the NBA head coaches who pick All-Star reserves might be thinking.
-
-Those numbers that Sabonis alluded to are even better this season than last, as he’s averaging 19.9 points, a league-leading 12.7 rebounds and a team-leading 8.0 assists for this Kings team (26-18) that is fifth in the Western Conference (he averaged 19.1, a league-leading 12.3 rebounds and 7.3 assists in the 2022-23 campaign and was voted third-team All-NBA). The [only other players averaging anywhere near a triple-double](https://www.nba.com/stats/players/traditional?CF=PTS*GE*10:REB*GE*8:AST*GE*7&dir=-1&sort=W) this season, per NBA.com/stats, are the [Denver Nuggets’](https://theathletic.com/nba/team/nuggets/) [Nikola Jokić](https://theathletic.com/nba/player/nikola-jokic-bCjsyLGuQMrMSWNr/)  and the [Dallas Mavericks’](https://theathletic.com/nba/team/mavericks/) [Luka Dončić](https://theathletic.com/nba/player/luka-doncic-gMyReUOesjAikT7S/). Yet still, it seems, Sabonis’ foreboding vibe remains.
-
-His perspective was no doubt shaped by his [legendary Lithuanian father, Arvydas,](https://www.youtube.com/watch?v=JF8aCCt0aw0) whose best playing days came overseas before he finally joined the Portland Trail Blazers as a 30-year-old. His father’s journey was far different — and remarkable, really — with his ill-fated NBA delay caused by everything from the Soviet Union’s [Iron Curtain that blocked him from coming to America](https://www.deseret.com/1996/5/4/19240276/what-ifs-abound-when-contemplating-sabonis) to injuries that forever changed the arc of his career. His story remains one of the great “What-ifs?” in NBA lore.
-
-All these decades later, Domantas has a deep appreciation for his basketball life that was formed out of his family history.
-
-“That desperation to stay over here (in the NBA vs. playing in Europe) because I love it, and try to get better, I don’t think that’s gonna change,” Sabonis said. “My family and friends always laugh at me, like, ‘Oh, you’re always gonna want more, or to keep going.’ They always know. There’s no calm time with me.”
-
-_(The following interview has been lightly edited for brevity and clarity.)_
-
-**So from a timeline standpoint, the Warriors series ends in late April, and you take a bit to recover from there. When did you and Doug start the offseason routine?** 
-
-We met with the (Kings) guys in Napa like a month after the season. We all got together, went to a winery, had dinner. It was the whole team, basically. We stayed at [Stanly Ranch](https://aubergeresorts.com/stanlyranch/). And yeah, a day or two after that is when I started getting back to work. I couldn’t do much at first because of my thumb.
-
-_After suffering a fracture in his right thumb in late December, Sabonis chose against having surgery and instead_ [_played through the injury_](https://theathletic.com/4042348/2022/12/29/domantas-sabonis-thumb-injury-nba-sacramento-kings/) _for the rest of the season._
-
-So we were doing all this rehab for it to get it right, and I couldn’t do contact or anything, so it was just dribbling, and I slowly built into it. With Jas (Randhawa, the Kings’ senior director of athlete health), we had a whole lifting program. I really wanted to get my body right. I’m an undersized big, and I play physical, but I still wanted to be stronger when you play against the bigger guys, to really be able to hold my ground and be more effective.
-
-**So what did you change?**
-
-Well, I usually always try to add or try new things. I want to keep trying to be better, especially while I’m still young. I always start at 6 a.m., but this year, I have my two kids, so I’d make sure I started at 6 a.m., and I’m done by maybe 11, 11:30, so then I get like an hour and a half with the kids before they have their naptime so I’m not fully gone for half of the day during the season (Domantas and his wife, Shashana Rosen, had their second child, and first daughter, in March). I changed my diet to help me. I did a test where they show you all of your things that you’re sensitive to.
-
-**And what did you learn?**
-
-I learned that everything I love I couldn’t eat (laughs). So it definitely was hard. It was hard. I get to do my test again after six months, and usually they say that everything you eat, a lot your body gets adapted to it, so hopefully the things I love that I’ve cut out, when I redo this test, some things might pop back up that I’m allowed to eat again.
-
-No carbs, like wheat. I had to go gluten free. I can’t do gluten-free pasta, and I love Italian food. There’s a lot of carbs in my diet, so I had to basically cut most of them out in terms of pasta, bread. I love croissants, pastries, all that stuff. Those would be my cheat meals. So I have to stay away from that. But I actually didn’t lose weight. I actually gained weight, which is the craziest thing. I just have like no body fat now. … The weight is still there — 248 to 250 (pounds). That’s where I stay at during the season. But the body fat is completely down. It wasn’t high before, but now it’s like nothing.
-
-That’s definitely helped me. I feel lighter. I don’t get as tired on the court. I wake up better. So I did all those things that the tests showed me, and that definitely had an impact. I have kids now, so that means less naptime. But I feel great. And I love to nap, so I always thought that was gonna be an issue, but it definitely hasn’t been.
-
-![Image 1](https://cdn.theathletic.com/app/uploads/2024/01/28194417/USATSI_20561935-scaled.jpg)
-
-Domantas Sabonis and Doug Christie talk before a playoff game in April against the Warriors. (Darren Yamashita / USA Today)
-
-**Let’s go back to the basketball part of the program. What did that look like?**
-
-We just really worked on everything that teams are going to give up on me (defensively), ways that I can get guys more open, more involved, situations where I usually passed up on (opportunities) sometimes to get the offense flowing and whatnot. Sometimes I could be open, but it’s like, “OK, this is where I have to get (Kings forward) Keegan (Murray) the ball or (guard) Kevin (Huerter) the ball,” to get them going so the whole offense clicks. We worked on situations where, if I need to be more aggressive, I have options to go to. We worked on the right hand a lot, and the jump shooting of course. We just really focused on those things, and Doug’s been great. He’s been showing me film on all these little things that we could add. Honestly, I feel like there’s still a lot of room to improve. I always feel like there’s more. It’s kind of hard to add things. It was a tough summer, because when you’re ranked the No. 1 offense in history, there’s not much more to add, you know what I mean?
-
-_While the Kings’ offensive rating of 118.6 last season was the best in league history, they’re currently 12th (117; [Indiana](https://theathletic.com/nba/team/pacers/) has the top mark at 121.2)._
-
-You don’t want to do too much. Maybe that’s what our struggles were in the beginning (of the season) with our offense. Everyone came back and wanted to add more, you know? And everyone had career years (last season). But with an offense like this, you can’t really add more. Everyone knows their role, and you just got to be more efficient, basically.
-
-I think we’ve definitely showed strides in the last 10 games, even though the record hasn’t shown it, but offensively, we’ve done better. The ball has been hopping more, guys have been shooting more confidently. Playing the Warriors ([in a 134-133 win on Thursday](https://theathletic.com/5229249/2024/01/26/harrison-barnes-kings-warriors-recap/)) helps because they’re a really fast team, so it kind of got us back into that flow again. But yeah, we’ll see. We’ll see as the games go on.
-
-**So paint the picture of your training setup in Napa.** 
-
-Well I usually spend time in Napa, and then the other half was in L.A. (after). In Napa, I have a home gym, in terms of a weight room, and then I have a (basketball) gym down the hill from my house like two minutes away. It’s a high school. They’re super nice. It’s a connection I have. They let us come in whenever we want. And we come in early. It’s easy. Doug would basically live out in Napa with me in the summer. I would work out Monday through Friday; Saturday and Sundays would be off. Anytime I wanted to go at night to shoot or whatever, and the gym is right there, they would let me. We basically had our own key. It was basically like our own gym. So that was pretty sweet. And building the weight room out at home was the best thing ever, because that’s like two hours of your day that I’m at home and kids and the fam can come in and can join. It’s just easy. I’m not gone for so long, you know?
-
-With Doug, it’s very natural. We can be ourselves. He’s been a player. I respect him as a player and a person, so it really just flows easy. And then once (Kings assistant coach Leandro) Barbosa came, having him helped a lot more too because that’s a guard who still can play. I played against him in FIBA competitions. We can play ones, and then when any other teammate came to work out with me this summer we could do two-on-two. (Barbosa) is a full player. He’s aggressive, really good on defense. So that would really help me out on those more physical, smaller guys when they go through switching situations. We definitely thought about it all and just went through everything. And Doug is crazy with his methods, so every day was a different crazy drill. If people saw what I was doing , they’d be like, “What is this?” Special type of finishes, dribbling exercises. Every day, he would just switch it up, so he would just keep it exciting and fun.”
-
-**OK, I need to know more about these drills…**
-
-Different finishes off one foot, off the wrong foot, having bands involved. He’s just pushing me. I get bumped a lot when I go up, so it was learning how to finish in those areas. When I shoot, they’re closing out or using a stick, one of those fluffy sticks, hitting me on my legs because, when you shoot, sometimes you get scared you’re gonna step on the ankle. So it’s trying to block all that out and just focus on your shot. Sitting in chairs, finishes with the right hand in a chair under the rim, which is really hard. Standing up in a chair and using heavy balls, big balls, small balls. (Christie) is into all that, and I really trust him. I just go with his flow and really try to learn. At the end of the day, you’re feeling the ball. You get to control the ball. It depends how serious you take the exercise if it’s actually going to help or not, so I went all in with Doug.
-
-**I know you gotta get on the road, so I’ll let you get out. As far as your team right now, you all are learning the hard way how the shift from surprise Cinderella team to being a team with expectations can be tough. Is the spotlight hitting you differently this season? What has that dynamic been like for you?** 
-
-It’s tough to say, because our record isn’t what we think it can be. But we know we’ve dropped a lot of games where we’ve had full control. Just in this last week, the [Phoenix](https://theathletic.com/nba/team/suns/) and the [Milwaukee](https://theathletic.com/nba/team/bucks/) (losses), those would have been two wins where we would have been up in fourth or fifth (place) or whatever it is, you know? It’s tough, because we know we are better. We’ve shown it. We just sometimes go through these mental lapses in games, which are very, very controllable. We know that. There’s other games where we’ve controlled it and ended up winning the game. So we’ve just got to stay mentally strong. We need to win games to get the best seed as we can for the playoffs, but I feel like, as the year goes on, we’re learning more and more, you know? We’re seeing film, seeing what we do wrong.
-
-We’re realizing these things. And the good thing is that we still have another 40 games. But it’s not going to get easier. It’s only gonna get harder as the year goes on because everyone’s fighting for this position. So it’s more about mental toughness for us.
-
-_(Top photo of Domantas Sabonis: Ezra Shaw / Getty Images)_
-","[('Domantas Sabonis', 'PERSON'), ('Kings', 'ORG'), ('NBA', 'ORG'), ('2024-01-29T11:00:03.000Z', 'DATE'), ('Domantas Sabonis](https://theathletic.com', 'PERSON'), ('all these years', 'DATE'), ('Oklahoma City', 'GPE'), ('Indiana', 'GPE'), ('Sacramento', 'GPE'), ('February 2022](https://theathletic.com/3511396/2022/02/08', 'DATE'), ('kings', 'ORG'), ('three', 'CARDINAL'), ('$282 million', 'MONEY'), ('Sabonis', 'PERSON'), ('seventh', 'ORDINAL'), ('MVP', 'WORK_OF_ART'), ('27-year-old', 'DATE'), ('last summer', 'DATE'), ('Sacramento Kings](https://theathletic.com/', 'ORG'), ('Doug Christie', 'PERSON'), ('Napa', 'GPE'), ('Calif.', 'GPE'), ('Los Angeles', 'GPE'), ('Draymond Green](https://theathletic.com', 'PERSON'), ('warriors', 'ORG'), ('first', 'ORDINAL'), ('the [Golden State Warriors](https://theathletic.com/nba/team/warriors/', 'ORG'), ('Kings', 'ORG'), ('five-year', 'DATE'), ('$217 million', 'MONEY'), ('annual', 'DATE'), ('summertime', 'DATE'), ('Sabonis', 'PERSON'), ('The Athletic_', 'ORG'), ('today', 'DATE'), ('this week', 'DATE'), ('Sabonis', 'PERSON'), ('NBA', 'ORG'), ('Sabonis', 'PERSON'), ('this season', 'DATE'), ('19.9', 'CARDINAL'), ('12.7', 'CARDINAL'), ('8.0', 'CARDINAL'), ('Kings', 'ORG'), ('26', 'CARDINAL'), ('fifth', 'ORDINAL'), ('the Western Conference', 'ORG'), ('19.1', 'CARDINAL'), ('12.3', 'CARDINAL'), ('7.3', 'CARDINAL'), ('2022-23', 'DATE'), ('third', 'ORDINAL'), ('this season', 'DATE'), ('the [Denver Nuggets’](https://theathletic.com/nba/team/nuggets/', 'ORG'), ('Nikola Jokić](https://theathletic.com', 'PERSON'), ('the [Dallas Mavericks’](https://theathletic.com/nba/team/mavericks/)', 'ORG'), ('Luka Dončić](https://theathletic.com', 'PERSON'), ('Sabonis', 'PERSON'), ('Lithuanian', 'NORP'), ('the Portland Trail Blazers', 'ORG'), ('30-year-old', 'DATE'), ('NBA', 'ORG'), ('the Soviet Union’s', 'GPE'), ('NBA', 'ORG'), ('All these decades later', 'DATE'), ('Domantas', 'PERSON'), ('NBA', 'ORG'), ('Europe', 'LOC'), ('Sabonis', 'PERSON'), ('Warriors', 'ORG'), ('late April', 'DATE'), ('Doug', 'PERSON'), ('Kings', 'ORG'), ('Napa', 'GPE'), ('a month after the season', 'DATE'), ('Stanly Ranch](https://aubergeresorts.com/stanlyranch/', 'ORG'), ('a day or', 'DATE'), ('two', 'CARDINAL'), ('first', 'ORDINAL'), ('late December', 'DATE'), ('Sabonis', 'PERSON'), ('Jas', 'PERSON'), ('Randhawa', 'PERSON'), ('Kings', 'ORG'), ('6 a.m.', 'TIME'), ('this year', 'DATE'), ('two', 'CARDINAL'), ('6 a.m.', 'TIME'), ('maybe 11, 11:30', 'TIME'), ('an hour and a half', 'TIME'), ('half of the day', 'DATE'), ('the season', 'DATE'), ('Domantas', 'PERSON'), ('Shashana Rosen', 'PERSON'), ('second', 'ORDINAL'), ('first', 'ORDINAL'), ('March', 'DATE'), ('six months', 'DATE'), ('Italian', 'NORP'), ('248 to 250 (pounds', 'QUANTITY'), ('the season', 'DATE'), ('Domantas Sabonis', 'PERSON'), ('Doug Christie', 'PERSON'), ('April', 'DATE'), ('Warriors', 'ORG'), ('Darren Yamashita', 'PERSON'), ('USA Today', 'ORG'), ('Kings', 'ORG'), ('Keegan (Murray)', 'PERSON'), ('Kevin (Huerter', 'PERSON'), ('Doug', 'PERSON'), ('a tough summer', 'DATE'), ('1', 'CARDINAL'), ('Kings', 'ORG'), ('118.6', 'CARDINAL'), ('last season', 'DATE'), ('12th', 'ORDINAL'), ('117', 'CARDINAL'), ('121.2', 'CARDINAL'), ('last season', 'DATE'), ('10', 'CARDINAL'), ('Warriors', 'ORG'), ('134', 'CARDINAL'), ('Napa', 'GPE'), ('Napa', 'GPE'), ('half', 'CARDINAL'), ('L.A.', 'GPE'), ('Napa', 'GPE'), ('two minutes', 'QUANTITY'), ('Doug', 'PERSON'), ('Napa', 'GPE'), ('the summer', 'DATE'), ('Monday through Friday', 'DATE'), ('Saturday', 'DATE'), ('Sundays', 'DATE'), ('night', 'TIME'), ('two hours', 'TIME'), ('Doug', 'PERSON'), ('Kings', 'ORG'), ('Leandro) Barbosa', 'PERSON'), ('FIBA', 'ORG'), ('this summer', 'DATE'), ('two', 'CARDINAL'), ('two', 'CARDINAL'), ('Barbosa', 'PERSON'), ('Doug', 'PERSON'), ('every day', 'DATE'), ('Every day', 'DATE'), ('one', 'CARDINAL'), ('one', 'CARDINAL'), ('Christie', 'PERSON'), ('Doug', 'PERSON'), ('this season', 'DATE'), ('this last week', 'DATE'), ('two', 'CARDINAL'), ('fourth', 'ORDINAL'), ('fifth', 'ORDINAL'), ('the year', 'DATE'), ('40', 'CARDINAL'), ('the year', 'DATE'), ('Domantas Sabonis', 'PERSON'), ('Ezra Shaw', 'PERSON'), ('Getty Images', 'ORG')]",,"```json
-{
-  ""Short Summary"": ""Domantas Sabonis, the Kings' starting center, discusses his relentless work ethic, offseason training regimen, and the team's adjustments to their newfound expectations."",
-  ""Labels"": ""basketball, NBA, Kings, Sabonis, training, interview, analysis"",
-  ""Event"": ""No"",
-  ""Topic"": ""Basketball"",
-  ""Journal"": ""The Athletic"",
-  ""Action Needed"": ""None"",
-  ""Author"": ""Jason Jones""
-}
-```","## Detailed Summary:
-
-**Topic:** Domantas Sabonis' fear of failure and its impact on his basketball career.
-
-**Key Points:**
-
-* Domantas Sabonis is a successful NBA player, averaging 19.9 points, 12.7 rebounds, and 8.0 assists for the Sacramento Kings.
-* Despite his achievements, Sabonis struggles with a deep-seated fear of failure inherited from his admiration for his father, Arvydas Sabonis, a legendary Lithuanian basketball player who faced challenges in his own NBA career.
-* This fear drives Sabonis’ relentless pursuit of improvement, making him a dominant force on the court.
-* He remains anxious about being selected for the All-Star game, highlighting his desire to prove himself.
-* Sabonis’ story demonstrates the power of determination and the impact of family legacy. It also underscores the challenges athletes face in striving for greatness while grappling with the fear of falling short.
-
-**Key Figures:**
-
-* Domantas Sabonis: Sacramento Kings power forward
-* Arvydas Sabonis: Domantas Sabonis’ father and legendary Lithuanian basketball player
-
-**Impact:**
-
-* Sabonis’ fear of failure motivates him to constantly improve, making him a valuable asset to the Sacramento Kings.
-* His story serves as an inspiration for aspiring athletes and anyone facing self-doubt.
-","['{\n ""Detailed Summary"": ""Domantas Sabonis is a prominent NBA player who has achieved significant success throughout his career. Despite his accomplishments, he remains driven by a deep-seated fear of failure. This mindset stems from his admiration for his father, Arvydas Sabonis, a legendary Lithuanian basketball player whose NBA career was hampered by various challenges. Domantas is determined to avoid a similar fate and constantly strives to improve. This relentless pursuit of excellence has led him to become a dominant force on the court, averaging 19.9 points, a league-leading 12.7 rebounds, and 8.0 assists for the Sacramento Kings. As the All-Star game approaches, Sabonis remains anxious about his chances of being selected, showcasing his unwavering desire to prove himself. His story is a testament to the power of determination and the enduring impact of family legacy. It also highlights the unique challenges faced by athletes who strive for greatness while grappling with the fear of falling short.""\n}', ""## Detailed Summary:\n\n**Domantas Sabonis' Offseason Routine:**\n\n* Began training with the Kings in Napa in May, focusing on rehabilitation for his fractured thumb.\n* Worked on strength and conditioning to improve his ability to hold his ground against larger players.\n* Adjusted his diet based on a sensitivity test, eliminating gluten and other carbs.\n* Gained weight but reduced body fat, leading to improved stamina and recovery.\n* Focused on developing his skillset to address defensive weaknesses and create more opportunities for teammates.\n* Expanded his offensive repertoire, including right-hand moves and jump shooting.\n* Remained motivated to improve despite the Kings' historic offensive rating in 2022-23.\n* Acknowledged some struggles with the team's offensive flow early in the season.\n\n**Key Figures:**\n\n* Domantas Sabonis: Sacramento Kings power forward\n* Doug Christie: Kings assistant coach\n* Stanly Ranch: Napa Valley resort where the Kings team met\n* Jas Randhawa: Kings senior director of athlete health\n\n**Significant Outcomes/Conclusions:**\n\n* Sabonis' offseason work focused on physical and skill development to address specific weaknesses and improve his overall contribution to the team.\n* The Kings' offensive efficiency in the 2023-24 season remains high, despite a slight decline from their record-breaking performance in 2022-23.\n* Sabonis acknowledges the need for continued improvement and is committed to expanding his offensive skillset.\n\n**Implications/Impact:**\n\n* Sabonis' offseason efforts are expected to have a positive impact on his individual performance and the Kings' overall offensive success.\n* His focus on creating more opportunities for teammates could lead to a more balanced and unpredictable offense.\n* The team's early-season offensive struggles highlight the need for continued refinement and adaptation of their offensive strategies."", '""Detailed Summary:   \n\n* **Harrison Barnes, Kings small forward, discusses his offseason training in Napa, California.**\n* **Key elements of Barnes\' training regimen:**\n    * **Weightlifting and basketball drills at a local high school gym**\n    * **Partnership with player development specialist Doug Christie for intense workouts**\n    * **Guidance from assistant coach Leandro Barbosa on facing smaller, quicker defenders**\n* **Emphasis on overcoming mental lapses during games and maintaining a high level of focus throughout the season.**\n* **Barnes notes the Kings have dropped winnable games due to mental inconsistencies but remain optimistic about their potential as they head into the final stretch of the regular season.**""', ""## Detailed Summary:\n\n**Topic:** Domantas Sabonis trade to the Sacramento Kings \n\n**Key Players:**\n\n* **Domantas Sabonis:** Former Indiana Pacers player, traded to the Sacramento Kings. \n* **Tyrese Haliburton:** Former Sacramento Kings player, traded to the Indiana Pacers.\n* **Buddy Hield:** Former Sacramento Kings player, traded to the Indiana Pacers.\n* **Justin Holiday:** Former Indiana Pacers player, traded to the Sacramento Kings.\n\n**Main Points:**\n\n* The Indiana Pacers and Sacramento Kings completed a blockbuster trade on February 8th, 2022.\n* The Kings acquired All-Star forward Domantas Sabonis, Jeremy Lamb, and Justin Holiday in exchange for Tyrese Haliburton, Buddy Hield, and Tristan Thompson.\n* This trade significantly impacts both teams' futures. \n* The Kings believe Sabonis can be their franchise cornerstone alongside De'Aaron Fox. \n* The Pacers receive a talented young core of players in Haliburton and Hield, aiming for a rebuild.\n\n**Figures:**\n\n* Sabonis, averaging 18.9 points and 12.1 rebounds in the 2021-22 season, is expected to boost the Kings' offense and rebounding.\n* Haliburton, a rising star, averaged 14.3 points and 7.4 assists per game, offering the Pacers promising point guard potential.\n\n**Implications:**\n\n* This trade could reshape the Western Conference playoff picture, with the Kings potentially aiming for a higher seed. \n* The Pacers enter a full-blown rebuild, focusing on developing their young players.\n* Both teams aim to improve significantly with this trade. ""]"
+``` ","['```json\n{\n""Detailed Summary"": {\n\n""**Nuclear Tests in Nevada and Their Impact:**\n\n* Between 1945-1962, the US detonated 200 nuclear bombs above ground, 100 in Nevada.\n* Fallout from tests spread radioactive particles via crops, livestock, and milk.\n* This affected individuals living downwind, the ‘downwinders’. \n\n**Downwinder Experiences:**\n\n* \'Downwinder\' Sandra Evans Walsh recalls watching radioactive clouds from tests in Utah.\n* Mary Dickson felt those in affected regions were viewed as unimportant and ignored.\n\n**The Downwinders of Utah Archive Project:**\n\n* Hosted by J. Willard Marriott Library.\n* Seeks to document the experiences and impacts of nuclear testing on Utah residents.\n* Uses interviews, maps and data to tell a comprehensive story.\n\n**National Recognition of Downwinders:**\n\n* 2011: Senate designates Jan 27th as National Day of Remembrance for Downwinders.\n\n**NCI Study on Iodine-131 Exposure and Thyroid Doses from Nevada Tests:**\n\n* This study led to the creation of the archive project.\n* It highlighted the human toll of the tests.\n\n**Oral Histories of Downwinders:**\n\n* The archive project includes interviews with people affected by the testing.\n* These interviews provide valuable individual perspectives.\n\n**Public Perception and Education:**\n\n* Public information films like ‘Bert the Turtle’ focused on external nuclear threats, not domestic testing impacts.\n\n**Key Points:**\n\n* Nuclear testing had significant health and social impacts on downwinders.\n* Documentation and education are crucial for historical understanding and acknowledging their experiences.""\n\n}\n}\n```', '```json\n{\n  ""Detailed Summary"": {\n    ""Content"": ""This article explores the impact of nuclear tests in Nevada on the surrounding area. It investigates the Downwinders of Utah Archive and the efforts to preserve historical data and accounts."",\n    ""Data"": {\n      ""Milk Consumption Statistics"": ""Milk consumption statistics from 1954 show a significant increase during the time period when contaminated cows were passing their burden on.""\n    },\n    ""Events"": {\n      ""Operation Upshot-Knothole Series"": ""This series of nuclear tests included a test nicknamed \'Dirty Harry\', which generated more fallout than any other continental boom.""\n    },\n    ""Figures"": {\n      ""11,000 Excess Deaths"": ""A report by the NCI and the Centers for Disease Control and Prevention estimated that fallout from nuclear testing could have led to around 11,000 excess deaths.""\n    },\n    ""Implications"": {\n      ""Radiation Exposure and Cancer"": ""Investigations by the UNSCEAR and IPPNW have established links between radiation exposure and cancer occurrence."",\n      ""Federal Recompense"": ""The Radiation Exposure Compensation Act (RECA) offers recompense to downwinders, test participants and uranium workers affected by nuclear testing.""\n    },\n    ""Main Points"": {\n      ""The Downwinders of Utah Archive collects data on nuclear testing and its impact on the surrounding area."",\n      ""There is a close match between interview data and geospatial data on the fallout patterns from nuclear tests."",\n      ""Radiation exposure from nuclear tests is linked to cancer occurrence, but individual cases cannot be conclusively tied to specific tests."",\n      ""The federal government offers compensation to downwinders and others affected by nuclear testing, but it requires specific documentation."",\n      ""The Downwinders of Utah Archive aims to preserve the history of nuclear testing and its impact on the affected populations.""\n    },\n    ""Outcomes"": {\n      ""RECA Offers Recompense"": ""The Radiation Exposure Compensation Act provides financial support to those suffering from health problems related to nuclear testing."",\n      ""Downwinders of Utah Archive Expands"": ""The archive continues to collect data and oral histories, with plans to expand its reach to other Western states.""\n    },\n    ""Significant Conclusions"": {\n      ""Nuclear testing had a significant impact on the surrounding area, leading to increased cancer occurrences."",\n      ""The federal government has acknowledged the impact of nuclear testing and offers some form of compensation."",\n      ""Preserving the history of nuclear testing and its impact is crucial for accountability and future prevention.""\n    }\n  }\n}\n```']"
