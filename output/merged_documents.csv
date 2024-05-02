@@ -1,0 +1,389 @@
+sender,link_value,plaintext_content,timestamp,link_jina,link_content,entities,entity_labels,summary,final_summary,intermediate_summaries
+Shardul Vaidya,https://www.scientificamerican.com/article/nuclear-testing-downwinders-speak-about-history-and-fear/,,2024-05-01 00:35:00,https://r.jina.ai/https://www.scientificamerican.com/article/nuclear-testing-downwinders-speak-about-history-and-fear/,"Title: Nuclear-Testing 'Downwinders' Speak about History and Fear
+
+URL Source: https://www.scientificamerican.com/article/nuclear-testing-downwinders-speak-about-history-and-fear/
+
+Published Time: 2022-01-27T14:00:00+00:00
+
+Markdown Content:
+When Sandra Evans Walsh was growing up in Parowan, Utah, her class would sometimes trek outside to a row of trees. They were about to watch history in the making, the teacher would tell them. The kids would then stare as an orange shroud spread across the sky. “I remember the clouds coming over our town and writing our names in the dust,” she said [in an interview](https://collections.lib.utah.edu/ark:/87278/s6hq8s4r) with Justin Sorensen, a geographical information systems (GIS) specialist at the University of Utah’s J. Willard Marriott Library.
+
+That dust had traveled around 200 miles, all the way from what is now called the Nevada National Security Site, where scientists once tested nuclear weapons. Between 1945 and 1962, U.S. researchers [detonated](https://www.osti.gov/opennet/manhattan-project-history/publications/DOENuclearTests.pdf) around 200 bombs aboveground—100 of them in Nevada. Fallout from the nuclear tests—radioactive particles that were swept into the atmosphere and fell back down to the earth—found their way into crops and livestock, whose radioactivity humans took on when they consumed milk, meat and produce. Fallout takes many different chemical forms, one of which is iodine-131: an isotope, or version, of iodine that has the usual 53 protons but 78 neutrons instead of the standard 74. Inside the body, the thyroid gland will absorb iodine-131, which eventually decays to produce radiation that can causethyroid cancer and other problems.
+
+People, such as Walsh, who lived “downwind” of nuclear development and open-air explosions are now called “downwinders.” Mary Dickson, another downwinder, [told Sorensen and one of his colleagues](https://collections.lib.utah.edu/details?id=1246432&q) that she thought the attitude toward those in Utah who were affected by nuclear testing was, “you know, ‘They were Mormons and cowboys and Indians—who cares?’ In general, she added, “they test where they think there are populations that don’t matter.”
+
+Sorensen and his team spoke to both women and dozens of other people for a project called the Downwinders of Utah Archive. Hosted by the J. Willard Marriott Library, the archive is an attempt to qualify, quantify and make accessible people’s experiences of, and effects from, the American legacy of nuclear weapons testing. In 2011 the Senate unanimously designated January 27 as the National Day of Remembrance for Downwinders. “The downwinders paid a high price for the development of a nuclear weapons program for the benefit of the United States,” [stated](https://www.congress.gov/112/bills/sres330/BILLS-112sres330ats.pdf) the resolution establishing the designation.
+
+But when the tests were conducted, no one had done the research necessary to truly calculate what that price would be. Wanting to understand the potential link between regional health issues and fallout from nuclear tests, the National Cancer Institute (NCI) undertook [a study](https://www.cancer.gov/about-cancer/causes-prevention/risk/radiation/i131-report-and-appendix) on Americans exposed to iodine-131 from the Nevada tests. [The results](https://www.cancer.gov/about-cancer/causes-prevention/risk/radiation/i131-report-and-appendix) were released in 1997 in a report entitled “Estimated Exposures and Thyroid Doses Received by the American People from Iodine-131 in Fallout following Nevada Atmospheric Nuclear Bomb Tests.” It was this document that first led Sorensen to the archival project. “We were just kind of wondering, originally, ‘What does this data look like if you put it on a map?’” he says, “because a spreadsheet doesn’t really tell you a lot.” Sorensen’s background is in GIS and cartography, so he took the NCI’s fallout data and overlaid them onto his home state. “It just really grew from there,” he says. “We started seeing there's a story to be told.”
+
+That story, Sorensen knew, included individual human narratives. So he and his team used their maps to pinpoint hotspots in the Beehive State. Advertising in heavily dosed places, such as St. George and Cedar City, the archivists asked people to come to their local libraries and share their experiences. “We came back with 30-plus interviews,” Sorensen says.
+
+Some interviewees told Sorensen of men who examined their thyroids or of the potassium iodide pills teachers passed out to combat the effects of radiation. Dickson recalled watching public-information films starring [Bert the Turtle](https://www.loc.gov/static/programs/national-film-preservation-board/documents/duck_cover.pdf), who taught kids to duck and cover in the event of a nuclear explosion. The film, though, was not really a warning about what your own country might do inside its borders.
+
+Alongside the interviews, Sorensen collected hard geospatial data and analysis. Web visitors to his archive can survey [iodine fallout maps](https://drive.google.com/file/d/0B9U0T4P-RpilbWdQSDg1c3ZqUFk/view?resourcekey=0-OvI6LYYD0t-7furhCq6tMQ), [diagrams of mushroom-cloud heights for different test series](https://sites.google.com/site/projectstorage2015/downwinders-screenshots/Operation%20Teapot%20Cloud%20Height%20Diagram.jpg), animations of nuclear [air drops](https://drive.google.com/file/d/0B9U0T4P-RpilTUxjMmhJREgtR3c/view?resourcekey=0-JDDveE0Hx-XygDkKes3f_A), [milk consumption statistics](https://lh6.googleusercontent.com/-EnaKGTzTEsA/VVS6uA6SFhI/AAAAAAAADSM/Y4DtDANUBwg/w1279-h959-no/Average%2BMilk%2BProduction%2B%2526%2BConsumption%2BNumbers%2Bfor%2B1954.png) from when contaminated cows passed their burden on and an [interactive timeline](https://lib.utah.edu/services/geospatial/downwinders/) of the explosive atomic age. “I was really surprised just how closely and accurately the interviews match the data,” Sorensen says. In particular, he cites a test in the Operation Upshot-Knothole series. Later the test was nicknamed “[Dirty Harry](https://www.ctbto.org/specials/testing-times/19-may-1953-dirty-harry/)” because it generated more fallout than any other continental boom, much of which ended up near St. George. “You hear this firsthand, and it brings all the information together,” he says.
+
+Although no single illness can be conclusively tied to a test-site cause, investigations by the [United Nations Scientific Committee on the Effects of Atomic Radiation](http://www.unscear.org/docs/reports/gareport.pdf) and the [International Physicians for the Prevention of Nuclear War and the Institute for Energy and Environmental Research](https://ieer.org/wp/wp-content/uploads/1991/06/RadioactiveHeavenEarth1991.pdf), among others, have established links between radiation exposure and cancer occurrence. In the early 2000s a [report](https://www.cdc.gov/nceh/radiation/fallout/) by NCI and the Centers for Disease Control and Prevention estimated that fallout could have led to around [11,000 excess deaths](https://www.cdc.gov/nceh/radiation/fallout/feasibilitystudy/Technical_Vol_1_Chapter_4.pdf). The NCI has also created [a calculator](https://radiationcalculators.cancer.gov/fallout/) that allows users to calculate their thyroid dose and risk of developing thyroid cancer from fallout. “We can’t know any individual’s cancer was caused by radioactivity,” explains Scott Williams, former executive director of HEAL Utah, a nonprofit advocacy group focused on the environment and public health, “but we do know that some people’s cancer risk was increased by radioactivity.”
+
+Since 1990 the federal government has offered some recompense to downwinders and others affected by nuclear testing through the Radiation Exposure Compensation Act (RECA). Set to expire this summer unless [a bill](https://www.congress.gov/bill/117th-congress/senate-bill/2798) is passed to renew (and expand) it, RECA pays downwinders, test participants and uranium workers between $50,000 and $100,000—if they have specific ailments and can prove (with decades-old evidence that is sometimes hard to come by) they were in the wrong place at the wrong time. “We left a burden on unwitting citizens across the country without ever informing them,” Williams says. “We need to do the honorable thing and own the problem and not create these problems again.”
+
+The Downwinders of Utah Archive is always expanding, and though Sorensen paused interviews during the pandemic, he plans to light the fuse again soon. He also hopes to expand the project to other Western states to preserve their history, too.
+
+Making sure that information remains accessible is part of the point of the Downwinders of Utah Archive. The day of remembrance is, in its own way, an isotope of that openness. “Those kind of markers are really important...,” Dickson told Sorensen and his colleague. “Otherwise, you know, time marches on, and it’s like dipping a big spoon in the water. The rest of the water just fills in, and it’s like it was never there.”
+
+This reporting was supported by the [International Women’s Media Foundation’s](https://www.iwmf.org/) Howard G Buffett Fund for Women Journalists.
+","[('2022-01-27T14:00:00', 'DATE'), ('Sandra Evans Walsh', 'PERSON'), ('Parowan', 'GPE'), ('Utah', 'GPE'), ('Justin Sorensen', 'PERSON'), ('the University of Utah’s', 'ORG'), ('J. Willard Marriott Library', 'ORG'), ('around 200 miles', 'QUANTITY'), ('the Nevada National Security Site', 'FAC'), ('Between 1945 and 1962', 'DATE'), ('U.S.', 'GPE'), ('200', 'CARDINAL'), ('Nevada', 'GPE'), ('one', 'CARDINAL'), ('53', 'CARDINAL'), ('78', 'CARDINAL'), ('74', 'CARDINAL'), ('Walsh', 'PERSON'), ('Mary Dickson', 'PERSON'), ('Sorensen', 'PERSON'), ('one', 'CARDINAL'), ('Utah', 'GPE'), ('Mormons', 'NORP'), ('Indians', 'NORP'), ('Sorensen', 'PERSON'), ('dozens', 'CARDINAL'), ('the Downwinders of Utah Archive', 'ORG'), ('the J. Willard Marriott Library', 'ORG'), ('American', 'NORP'), ('2011', 'DATE'), ('Senate', 'ORG'), ('January 27', 'DATE'), ('the National Day of Remembrance', 'DATE'), ('the United States', 'GPE'), ('the National Cancer Institute', 'ORG'), ('NCI', 'ORG'), ('Americans', 'NORP'), ('Nevada', 'GPE'), ('1997', 'DATE'), ('Estimated Exposures and Thyroid Doses', 'WORK_OF_ART'), ('first', 'ORDINAL'), ('Sorensen', 'PERSON'), ('Sorensen', 'PERSON'), ('NCI', 'ORG'), ('Sorensen', 'PERSON'), ('the Beehive State', 'GPE'), ('St. George', 'GPE'), ('Cedar City', 'GPE'), ('30-plus', 'CARDINAL'), ('Sorensen', 'PERSON'), ('Sorensen', 'PERSON'), ('Dickson', 'PERSON'), ('Bert the Turtle](https://www.loc.gov/static/programs', 'PERSON'), ('Sorensen', 'PERSON'), ('Sorensen', 'PERSON'), ('Operation Upshot-Knothole', 'EVENT'), ('St. George', 'GPE'), ('the [United Nations Scientific Committee on the Effects of Atomic Radiation](http://www.unscear.org/docs/reports/gareport.pdf)', 'ORG'), ('the [International Physicians for the Prevention of Nuclear War', 'ORG'), ('the Institute for Energy and Environmental Research](https://ieer.org/wp/wp-content/uploads/1991/06/RadioactiveHeavenEarth1991.pdf)', 'ORG'), ('the early 2000s', 'DATE'), ('NCI', 'ORG'), ('the Centers for Disease Control and Prevention', 'ORG'), ('11,000', 'CARDINAL'), ('NCI', 'ORG'), ('Scott Williams', 'PERSON'), ('HEAL Utah', 'ORG'), ('1990', 'DATE'), ('the Radiation Exposure Compensation Act', 'LAW'), ('this summer', 'DATE'), ('RECA', 'ORG'), ('between $50,000', 'MONEY'), ('100,000', 'MONEY'), ('decades', 'DATE'), ('Williams', 'PERSON'), ('The Downwinders of Utah Archive', 'ORG'), ('Sorensen', 'PERSON'), ('Western', 'NORP'), ('the Downwinders of Utah Archive', 'ORG'), ('The day', 'DATE'), ('Dickson', 'PERSON'), ('Sorensen', 'PERSON'), ('the [International Women’s Media Foundation’s](https://www.iwmf.org/) Howard G Buffett Fund for Women Journalists', 'ORG')]",,"```python
+{
+ ""Short Summary"": ""This article discusses the experiences of people living near nuclear test sites, known as 'downwinders', and the potential health risks they faced due to radiation exposure. The author also discusses a project aimed at documenting the stories of downwinders."",
+ ""Labels"": ""nuclear testing, health risks, downwinders, history, radiation exposure"",
+ ""Event"": ""No"",
+ ""Topic"": ""Health"",
+ ""Journal"": ""Scientific American"",
+ ""Action Needed"": ""None"",
+ ""Author"": ""N/A""
+}
+```","## Detailed Summary
+ 
+### Nuclear Testing Impacts: A Look at the ""Downwinders"" Story
+
+This summary delves into the experiences of ""downwinders,"" individuals exposed to fallout from US nuclear testing in Nevada during the Cold War.
+
+**Key Points:**
+
+* **1945-1962:** US conducted ~200 nuclear tests in Nevada, 100 aboveground detonations.
+* **Fallout Contamination:** Crops, livestock, and human health were impacted by radioactive fallout.
+* **Downwinders at Risk:** Increased risk of thyroid cancer due to exposure to radioactive iodine (I-131).
+* **Senate Resolution 27**: Acknowledged downwinders' suffering and designated National Day of Remembrance.
+* **1997 NCI Study**: Investigated health issues in relation to nuclear testing fallout.
+* **Downwinders of Utah Archive:** Project by the University of Utah collects testimonies and quantifies consequences.
+
+**Impacts and Implications:**
+
+* **Historical Injustice:** Exposes health consequences, overlooked impact on civilians.
+* **Documentation Importance:** Preserves narratives, quantifies testing consequences.
+* **Ethical Concerns:** Highlights potential risks associated with nuclear testing programs.
+
+**Figures Involved:**
+
+* **Downwinders:** Sandra Evans Walsh, Mary Dickson, and others sharing personal testimonies.
+* **Project Lead:** Justin Sorenson, GIS Specialist.
+* **National Cancer Institute:** Conducted health risk research. 
+* **US Senate, Government Agencies:** Nuclear weapons programs involvement.
+
+
+**Additional Notes:**
+
+* Focus on Utah downwinders, but similar impacts globally.
+* Article highlights thyroid cancer, but long-term effects are complex and vary depending on individual exposure, health, and environmental factors.
+
+
+","['```json\n{\n    ""Detailed Summary"": ""## Summary of \'Nuclear-Testing ‘Downwinders’ Speak about History and Fear\' \\n\\n The article discusses the experiences and consequences faced by people who lived in close proximity to nuclear testing sites, particularly in Utah, USA, during the Cold War era. These individuals are referred to as \'downwinders\' due to their exposure to radioactive fallout from the tests.\\n\\n**Key points:**\\n\\n* Between 1945-1962, the US tested around 200 nuclear weapons, with 100 detonations occurring aboveground in Nevada.\\n* Radioactive fallout contaminated the environment, impacting crops, livestock, and ultimately human health when consumed.\\n* Downwinders faced an increased risk of thyroid cancer due to exposure to radioactive iodine (I-131).\\n* The article cites a 2011 Senate resolution acknowledging the downwinder\'s suffering and designating January 27th as the National Day of Remembrance for Downwinders.\\n* A 1997 study by the National Cancer Institute investigated potential links between downwinder health issues and fallout from Nevada tests.\\n* The University of Utah\'s archive project aims to collect testimonies from downwinders, making their stories accessible and quantifying the consequences of US testing.\\n\\n**Impacts and implications:**\\n\\n* The article highlights a historical injustice, exposing the potential health consequences of nuclear testing programs and the overlooked impact on civilian populations.\\n* It emphasizes the importance of documenting the experiences of downwinders and preserving their narratives.\\n* The article raises concerns regarding the ethical implications and potential environmental risks associated with nuclear testing programs.\\n\\n**Main figures involved:**\\n* Sandra Evans Walsh and Mary Dickson, \'Downwinders\' who shared their personal experiences\\n* Justin Sorenson, GIS Specialist and Project Lead for the Downwinders of Utah Archive\\n* National Cancer Institute, responsible for a study investigating health risks to downwinders\\n* US Senate and government agencies involved in nuclear weapons programs\\n\\n**Additional notes:\\n\\n* The study focuses primarily on downwinder experiences from nuclear testing in Nevada. However, it\'s important to acknowledge that nuclear tests have been conducted around the globe, resulting in similar impacts on local populations in various countries.\\n* The article highlights the potential health consequences of radioactive exposure, particularly thyroid cancer. However, it\'s important to note that the long-term effects and potential risks associated with radioactive fallout are complex, and might vary depending on factors like individual exposure levels, health status, and other environmental conditions.""\n}\n```', '## Detailed Summary \n\n**Project:** Downwinders of Utah Archive\n\n**Content:** \n\n* Interviews with individuals impacted by nuclear testing in Utah\n* Geospatial data and analysis of fallout patterns\n* Visualizations of nuclear test impacts, including mushroom cloud heights, air drops, and milk consumption statistics\n* Interactive timeline of the atomic age\n\n**Key Findings:**\n\n* Interviews corroborated geospatial data\n* Fallout from Operation Upshot-Knothole, particularly the ""Dirty Harry"" test, disproportionately impacted St. George\n* Studies by UNSCEAR, IPPNW, IEER, and NCI link radiation exposure to cancer\n* NCI report estimated 11,000 excess deaths from fallout\n* NCI calculator allows individuals to estimate their thyroid dose and cancer risk\n\n**Impact:**\n\n* Raised awareness of the public health consequences of nuclear testing\n* Provided evidence for compensation claims under RECA\n* Highlighted the need for transparency and accountability regarding nuclear testing\n\n**Future Plans:**\n\n* Resume interviews paused during the pandemic\n* Expand the project to other Western states\n\n**Significance:**\n\n* The Downwinders of Utah Archive serves as a valuable resource for preserving the history of nuclear testing and its impact on individuals and communities.\n* The project contributes to ongoing efforts to address the health and environmental consequences of nuclear testing.\n* The archive promotes transparency and accountability, ensuring that the lessons learned from the nuclear age are not forgotten. \n']"
+Shardul Vaidya,https://theprint.in/opinion/bihars-chirand-has-a-4000-year-history-its-the-rising-sun-of-indias-neolithic-culture/1954039/,,2024-05-01 00:35:00,https://r.jina.ai/https://theprint.in/opinion/bihars-chirand-has-a-4000-year-history-its-the-rising-sun-of-indias-neolithic-culture/1954039/,"Title: Bihar's Chirand has a 4000-year history. It's the 'rising sun' of India's Neolithic culture
+
+URL Source: https://theprint.in/opinion/bihars-chirand-has-a-4000-year-history-its-the-rising-sun-of-indias-neolithic-culture/1954039/
+
+Published Time: 2024-02-05T08:06:11+00:00
+
+Markdown Content:
+The story of continuity and change in a country with diverse ecosystems varies from region to region. It is important to consider the microhabitats and landscapes that shape the cultures and traditions we inherit. Some regions have been occupied for many millennia, resulting in a long history with no breaks or gaps in the chronology. However, there are some examples in archaeology of sites that have been occupied for a long time but have had gaps in occupation; the infamous site of [Hastinapura](https://theprint.in/opinion/bihars-chirand-has-a-4000-year-history-its-the-rising-sun-of-indias-neolithic-culture/1954039/blank) is a prime example of such chrono-cultural history.
+
+There are also examples of a region with multiple sites deciphering the story of continuity and change, the classical example of this would be the sites of [Mehrgarh](https://www.jstor.org/stable/j.ctt1b7x6xx), [Nausharo](https://theprint.in/opinion/bihars-chirand-has-a-4000-year-history-its-the-rising-sun-of-indias-neolithic-culture/1954039/blank) and [Pirak](https://www.tandfonline.com/doi/pdf/10.1080/11263509609439562), together showcasing the evolution of culture from early farming to the Bronze Age. Therefore, it is not necessary that an individual site will have to give an entire picture of the region’s historicity; there can be multiple sites in a region that can offer you a glimpse of shifts in the cultural paradigm.
+
+[Chirand,](https://ehrafarchaeology.yale.edu/traditions/aq50/documents/010) an archaeological site in Bihar, is a combination of these two distinct examples. The site narrates a regional evolution of society from the Neolithic to the Early Historical period after which it was deserted till the Mediaeval period. But when combined with other sites on the banks of the Ganga, such as [Maner](https://www.telegraphindia.com/bihar/new-year-date-for-maner-excavation-archaeologists-expect-to-find-artefacts-dating-back-to-neolithic-age-and-pal-period/cid/349766), [Chechar](https://www.hindustantimes.com/india/relics-of-india-s-golden-age-discovered-in-bihar/story-UFBBSlznIEiQpdjvxLqzRN.html) and Senuar, it provides valuable information on the over-4000-year history of the region.
+
+* * *
+
+_**Also Read:** [Is there a ‘void’ in Indian history? Brahmagiri, Maski hold the answer](https://theprint.in/opinion/is-there-a-void-in-indian-history-brahmagiri-maski-hold-the-answer/1933821/)  
+_
+
+* * *
+
+### **The Rising Sun of Bihar**
+
+Once called the ‘rising sun of the neolithic culture in India’ by archaeologist [FR Allchin](https://www.cambridge.org/core/journals/bulletin-of-the-school-of-oriental-and-african-studies/article/abs/f-r-allchin-piklihal-excavations-andhra-pradesh-government-archaeological-series-no-1-xvii-154-pp-64-plates-hyderabad-government-of-andhra-pradesh-1960-rs-15/899F551FD0CA064CBCB51E995001D146), Chirand is an archaeological site located in the Saran district of Bihar. The site was first reported after a surface study in the late 1800s— when Mediaeval structures and Buddhist sculptures were found. The initial excavations, conducted in 1962 by the Directorate of Archaeology and Museum, Bihar, lasted for seven field seasons till 1972-73.
+
+A five-fold cultural sequence was revealed during the excavation which was broadly categorised as –
+
+**Period I** – Neolithic (early food-producing period)
+
+**Period II** – Chalcolithic (Copper-using society)
+
+**Period III** – Northern Black Polished Ware-associated culture (linked with the rise of ancient republics)
+
+**Period IV**– Historical period (from 1st century to 3rd century BCE)
+
+**Period V**– Late Historical
+
+The neolithic society at Chirand settled on the alluvial deposit of the Ganga River in circular houses made of wild reeds. A circular floor about four metres in diameter with a series of open hearths, a few post-holes near the floor and a few burnt chunks of clay with a reed impression are valuable pieces of evidence that speak volumes about neolithic settlement style and social matrix.
+
+Bone tools, styli, tanged and socketed arrowheads, bangles of ivory and tortoise bone, and many bone ornaments from the Neolithic phase are indicative of a highly skilled society which focused on utilising animal bones in many ways. Apart from this, beads made of chalcedony, agate, jasper, marble, chert, steatite and faience—which were sources from across the subcontinent—link the settlers of Chirand to the domestic trade matrix. Material like faience must be the result of exchange with the Harappans in the west, whereas agate was probably coming from Gujarat.
+
+The evidence of rice, wheat, barley and masoor [at Chirand](https://ehrafarchaeology.yale.edu/traditions/aq50/documents/008) suggests that people, during Period I, were cultivating cereals and legumes. Fish also was part of their diet.
+
+Such a complex society of early farmers in eastern India at around c.2400 BCE is a marker of indigenous growth of culture, which is connected to its contemporary settlements around Chirand and across the Ganga in the west.
+
+* * *
+
+_**Also Read:** [Calling Harappan Civilisation ‘Vedic Saraswati’ is extreme—learn to hold a trowel first](https://theprint.in/opinion/calling-harappan-civilisation-vedic-saraswati-is-extreme-learn-to-hold-a-trowel-first/1914084/)_
+
+* * *
+
+### **Evolution to copper**
+
+The inclusion of metal is a sign of evolution, both of society and of technology. Copper was the first metal which slowly penetrated the social fabric i[n Chirand.](https://www.jstor.org/stable/44145448) This brought about the onset of the Chalcolithic period.
+
+The early dates of the Copper Age—which succeeded the early farming period and paved the way for iron—come from the western half of the subcontinent. But this may be a generalised statement because the juncture when the Neolithic ends and Chalcolithic begins might not follow a linear pattern in every microcosm. It can merge in the initial stages before paving the way for a full-fledged Copper Age, just like at [Maski](https://theprint.in/opinion/is-there-a-void-in-indian-history-brahmagiri-maski-hold-the-answer/1933821/), Karnataka. Moreover, in some instances, they co-exist, as we have seen in the case of [Burzahom](https://theprint.in/opinion/buzahom-can-change-story-of-evolution-until-recently-it-was-a-kashmiri-t20-cricket-ground/1474410/) and Harappa.
+
+In the case of Chirand, both scenarios stand true. At the site, the Neolithic period slowly transitions into the Chalcolithic period. But when placing the site with its contemporary sites in the same region as Maner, the [Neolithic period of Chirand](https://www.jstor.org/stable/44145448) co-exists with the Chalcolithic period of Maner which is dated to 2600 BCE.
+
+The Chalcolithic period in Chirand is dated around c.2000 to 1950 BCE and covers about 5.5m thickness of the total deposit. The copper-using people lived in houses made of reeds and bamboo with mud plaster and floors made of burnt earth. Circular hearths are noted in the earliest levels of the deposit. Secondary burials were also recorded during the excavation.
+
+Bone tools continue to make an appearance along with stone beads. A few corroded pieces of copper were excavated along with a few pear-shaped terracotta beads.
+
+This phase slowly merges into Period III— the Iron Age.
+
+* * *
+
+_**Also Read:** [Archaeological tourism is on the rise. Govt to citizens, India must learn to handle the sites](https://theprint.in/opinion/heritage-tourism-has-moved-to-archaeology-but-indians-havent-learnt-good-practices-yet/1870345/)_
+
+* * *
+
+### **Towards urbanism** 
+
+If copper marked the evolution of society and a technological shift in metallurgy, iron is credited with leading the society into urbanism. The Iron Age in the subcontinent is a much-debated topic. While the exact date of the introduction of iron is still debatable, its inclusion in the material culture is considered important— so much so that early scholars called the Iron Age the foundation of second urbanism in India.
+
+At [Chirand](https://www.jstor.org/stable/44145448), the introduction of iron is coupled with the presence of Northern Black Polish Ware which, like iron, is a product of advanced kilning technique. Iron implements found at the site include sickles, axes, ploughshares, daggers, lances, knife blades, etc. Beads of semi-precious stones and terracotta beads are also part of the material assemblage at the site. Terracotta human and animal figures including the naga figurine are important findings. Copper antimony rods, bone arrowheads, copper-punch marked coins and cast coins were also found during this period. What is interesting is that Neolithic celts \[a tool from the period\] were also present in this period. A drastic change in settlement pattern was in the building material. Baked brick structures start to appear, with mud walls and rammed floors. Period III was followed by Period IV—from 1st century BCE to 3rd century CE—which was ruled by the Kushana dynasty. During this period big residential complexes and monastic buildings are reported. Several structural phases are noted, one of which included remnants of a monastic kitchen which yielded a terracotta torso of Hariti. An important discovery of this period was the Kushana copper coin hoard of 88 coins, and a terracotta sealing with the early Brahmi script. Period V is the last phase which revealed that the site was deserted after 3rd century CE and reoccupied after a considerable gap during the late historical and early Mediaeval period. The periodisation is indicated by the recovery of a pot with five gold coins of the Kalachuri dynasty ruler Gangeyadeva dated c.1045 CE, and the presence of an unidentified sculpture from the Pala period. ### **Continuity and change** At [Brahmagiri](https://theprint.in/opinion/is-there-a-void-in-indian-history-brahmagiri-maski-hold-the-answer/1933821/) and [Maski](https://theprint.in/opinion/is-there-a-void-in-indian-history-brahmagiri-maski-hold-the-answer/1933821/), cultures changed and the landscape evolved with time. Similarly, at Chirand, early neolithic farmers co-existed and evolved alongside the copper-using society, and at the same time distinctively showed how easily cultures change and merge at one location. From humble wattle and daub structures emerged rammed floors, community hearths, and burnt bricks, changing the settlement style which eventually became the hallmark of urbanism. The Kushana occupation that follows, is also an example of how the region, and most importantly Chirand itself, is [significant](https://www.jstor.org/stable/44145448) – perhaps due to political reasons or maybe just due to trade.
+
+[Today](https://www.hindustantimes.com/cities/patna-news/famous-archaeological-site-in-bihar-faces-threat-of-erosion-101624801867323.html), Chirand is rapidly being consumed by the Ganga, recently fresh excavations opened up a glorious chapter of the history of eastern India, leaving us waiting for more data.
+
+_An earlier version of this article wrongly identified an archaeological site as Chirand. This has been corrected._
+
+_Disha Ahluwalia is an archaeologist and junior research fellow at the Indian Council Of Historical Research. She tweets @ahluwaliadisha. Views are personal._
+
+(Edited by Theres Sudeep)
+","[('Bihar', 'GPE'), ('Chirand', 'GPE'), ('4000-year', 'DATE'), ('India', 'GPE'), ('Neolithic', 'NORP'), ('2024-02-05T08:06:11', 'DATE'), ('many millennia', 'DATE'), ('the Bronze Age', 'DATE'), ('Bihar', 'GPE'), ('two', 'CARDINAL'), ('the Neolithic to the Early Historical period', 'DATE'), ('the Mediaeval period', 'DATE'), ('Ganga', 'LOC'), ('new-year-date', 'DATE'), ('Senuar', 'PERSON'), ('Indian', 'NORP'), ('Brahmagiri', 'PERSON'), ('Maski', 'PERSON'), ('The Rising Sun of Bihar', 'WORK_OF_ART'), ('Chirand', 'GPE'), ('Saran', 'GPE'), ('Bihar', 'GPE'), ('the late 1800s', 'DATE'), ('Mediaeval', 'NORP'), ('Buddhist', 'NORP'), ('1962', 'DATE'), ('the Directorate of Archaeology and Museum', 'ORG'), ('Bihar', 'GPE'), ('seven field seasons', 'DATE'), ('1972-73', 'DATE'), ('five-fold', 'CARDINAL'), ('III', 'CARDINAL'), ('IV', 'CARDINAL'), ('1st century to 3rd century BCE', 'DATE'), ('Chirand', 'GPE'), ('the Ganga River', 'LOC'), ('the Neolithic phase', 'DATE'), ('Chirand', 'GPE'), ('Harappans', 'NORP'), ('Gujarat', 'GPE'), ('Period I', 'DATE'), ('India', 'GPE'), ('around c.2400 BCE', 'DATE'), ('Chirand', 'GPE'), ('Ganga', 'LOC'), ('Harappan Civilisation', 'ORG'), ('the Chalcolithic period', 'DATE'), ('the Copper Age', 'DATE'), ('Chalcolithic', 'DATE'), ('Karnataka', 'GPE'), ('Harappa', 'PERSON'), ('Chirand', 'GPE'), ('the Neolithic period', 'DATE'), ('the Chalcolithic period', 'DATE'), ('Maner', 'GPE'), ('the [Neolithic period of Chirand](https://www.jstor.org/', 'DATE'), ('the Chalcolithic period', 'DATE'), ('Maner', 'GPE'), ('2600 BCE', 'DATE'), ('The Chalcolithic period in Chirand is', 'DATE'), ('c.2000 to 1950 BCE', 'DATE'), ('about 5.5m', 'QUANTITY'), ('Period III—', 'DATE'), ('the Iron Age', 'DATE'), ('India', 'GPE'), ('indians', 'NORP'), ('The Iron Age', 'DATE'), ('the Iron Age', 'DATE'), ('second', 'ORDINAL'), ('India', 'GPE'), ('Neolithic', 'DATE'), ('Period III', 'DATE'), ('1st century BCE to 3rd century CE', 'DATE'), ('the Kushana dynasty', 'DATE'), ('Hariti', 'PERSON'), ('Kushana', 'NORP'), ('88', 'CARDINAL'), ('Brahmi', 'NORP'), ('V', 'CARDINAL'), ('3rd century CE', 'DATE'), ('five', 'CARDINAL'), ('Kalachuri', 'NORP'), ('Gangeyadeva', 'PERSON'), ('c.1045 CE', 'DATE'), ('the Pala period', 'DATE'), ('Chirand', 'GPE'), ('Kushana', 'NORP'), ('Chirand', 'LOC'), ('bihar', 'GPE'), ('Chirand', 'GPE'), ('India', 'GPE'), ('Chirand', 'GPE'), ('Disha Ahluwalia', 'PERSON'), ('the Indian Council Of Historical Research', 'ORG'), ('@ahluwaliadisha', 'PERSON'), ('Theres Sudeep', 'PERSON')]",,"```json
+{
+ ""Short Summary"": ""- **2-line description of the main content:** Archaeological evidence suggests that Chirand, a 4000-year-old archaeological site in Saran, Bihar, may be the 'rising sun' of India's Neolithic culture. Through its cultural phases and excavated artifacts, insights are gained into the lifestyle, trade alliances, and technological evolution of the ancient inhabitants of the region."",
+ ""Labels"": ""archaeological, history, India, Bihar, culture, Neolithic"",
+ ""Event"": ""No"",
+ ""Topic"": ""Archaeology"",
+ ""Journal"": ""ThePrint"",
+ ""Action Needed"": ""None"",
+ ""Author"": ""Disha Ahluwalia""
+}
+```","```json
+{
+ ""Detailed Summary"": ""Chirand, an archaeological site in Saran District, Bihar, boasts over four millenia of human activity. Discovered in the late 19th century, it has revealed five cultural periods:\n\n**1. Neolithic Period:** Characterized by circular reed houses, inhabitants subsisted on agriculture and engaged in interregional trade using diverse beads. Remains of fish, fauna, cereals and lentils point towards a well-evolved food structure.\n\n**2. Chalcolithic Period:** Introduction of copper brought about societal changes.\n\n**3. NBP Ware Period:** The use of Northern Black Polished Ware flourished alongside advanced cultures and ancient republics suggesting economic prosperity.\n\n**4. Historical Period:** Extending from 1st to 3rd century BC, this era saw an advanced civilization which is proven by intricate discoveries at the site.\n\n**5. Late Historical Period:** The period after the 3rd century BC, indicating continuity of human inhabitants.\n\nChirand, along with other archaeological sites, offers immense insights into regional heritage, cultural shifts and historic evolution. Famed Archeologist, F.R. Allchin, considered Chirand as the 'dawn of Indian neolithic culture' reflecting its significance during that era. Recent surveys have unveiled evidence implying human activity as early as 8,000 - 7,000 BC, redefining the site's historical importance which is being further investigated.""
+}
+```","['```json\n{\n ""Detailed Summary"": ""Chirand, an archaeological site located in Saran district, Bihar, has a comprehensive history spanning over 4,000 years. It was initially identified in the late 1880s during surface investigations, which uncovered medieval structures and Buddhist sculptures. Subsequent excavations between 1962 and 1973 revealed a five-phase cultural sequence: \\n\\n* **Period I (Neolithic)**: This early food-producing phase saw inhabitants residing in circular houses made of wild reeds on the alluvial deposits of the Ganga River. Evidence suggests a skilled society that utilized animal bones and engaged in domestic trade as evidenced by beads made from various materials sourced across the subcontinent.\\n\\n* **Period II (Chalcolithic)**: The introduction of copper during this period brought about significant changes. \\n\\n* **Period III (Northern Black Polished Ware-associated culture)**: This period, associated with the rise of ancient republics, witnessed the use of distinctive pottery known as Northern Black Polished Ware. \\n\\n* **Period IV (Historical Period)**: The period from the 1st century to 3rd century BCE marks the historical period.\\n\\n* **Period V (Late Historical)**: This period marks the later historical phase at Chirand. \\n\\nCombined with other sites like Maner and Chechar, Chirand offers valuable insights into the region\'s rich cultural heritage and historical evolution. Notably, archaeologist F.R. Allchin called it the \'rising sun of the neolithic culture in India\' due to its significant contributions during that period.""\n}\n```', ""## Detailed Summary:\n\n**Chirand's Cultural Evolution:**\n\n* **Period I (c.2400 BCE):** Evidence of rice, wheat, barley, masoor, fish consumption, and complex social structures point to early farming communities.\n* **Period II (c.2000-1950 BCE):** Transition from Neolithic to Chalcolithic with the introduction of copper. Reed and bamboo houses, mud plaster, burnt earth floors, circular hearths, secondary burials, bone tools, stone beads, and pear-shaped terracotta beads are found.\n* **Period III (Iron Age):** Introduction of iron and Northern Black Polish Ware marks a technological shift and leads towards urbanism. Iron implements, semi-precious stone beads, terracotta figures, copper antimony rods, bone arrowheads, copper coins, and cast coins are discovered. Baked brick structures with mud walls and rammed floors appear.\n* **Period IV (1st century BCE to 3rd century CE):** Kushana dynasty rule. Large residential complexes, monastic buildings, remnants of a monastic kitchen with a terracotta torso of Hariti, Kushana copper coin hoard, and terracotta sealing with early Brahmi script are found.\n* **Period V (after 3rd century CE):** Site deserted and reoccupied during the late historical and early Mediaeval period.\n\n**Key Points:**\n\n* Chirand's cultural evolution reflects a progression from early farming communities to urbanism.\n* Copper and iron introduction mark significant technological advancements.\n* Evidence of diverse material culture, including tools, ornaments, and pottery, provides insights into the lives of the people.\n* Architectural changes from Period II onwards indicate increasing societal complexity.\n\n**Implications:**\n\n* Chirand's archaeological findings offer valuable information about the development of early societies in eastern India.\n* The site provides insights into the cultural and technological advancements that occurred during the Neolithic, Chalcolithic, and Iron Ages.\n* The study of Chirand contributes to a better understanding of the evolution of urbanism in the Indian subcontinent.\n\n**Note:** This summary is based solely on the provided article and does not include any external information or references. \n"", '```json\n{\n ""Detailed Summary"": ""Chirand, an archaeological site in Bihar, has a rich history spanning centuries. Excavations have uncovered evidence of settlements from the Neolithic period, as well as later occupations by the Kushanas. The site\'s evolution shows how cultures changed and merged over time, with influences from different periods visible in its architecture and artifacts. Recent excavations have revealed new insights into the history of eastern India, highlighting the region\'s importance and leaving researchers wanting more. However, the site is currently under threat from erosion by the Ganga River.""\n}\n```']"
+Shardul Vaidya,https://www.artandobject.com/news/how-money-laundering-works-art-world,,2024-05-01 00:35:00,https://r.jina.ai/https://www.artandobject.com/news/how-money-laundering-works-art-world,"Title: How Money Laundering Works In The Art World | Art & Object
+
+URL Source: https://www.artandobject.com/news/how-money-laundering-works-art-world
+
+Markdown Content:
+Works of art have long been identified, and sometimes even romanticized, as ideal ways for racketeers to [launder money](https://www.artandobject.com/news/treasury-dept-warns-sanctions-art-world). There’s a thread of logic here: the art world typically accommodates those that want to anonymously buy high-dollar paintings, and on top of that, the industry allows large cash deals. For those looking to [launder money](https://www.artandobject.com/news/treasury-dept-warns-sanctions-art-world), it’s difficult to conjure up a more attractive set of circumstances than those.
+
+There also seems to be plenty of instances where art has played a role in the act of money laundering. Consider that when the [Mexican](https://www.artandobject.com/press-release/one-greatest-living-mexican-printmakers-celebrates-mexican-revolution) government passed a law in the early 2010s to require more information about buyers, and how much cash could be spent on a single piece of art, the market cratered, as sales dipped [70 percent](https://www.washingtonpost.com/world/mexican-art-galleries-suffer-as-drug-money-laws-end-anonymous-cash-buys/2014/09/16/4e5dc6c4-3d41-11e4-a430-b82a3e67b762_story.html) in less than a year. Many believed that was because Mexican cartel rings had previously been the biggest buyers in the market.
+
+About the Author
+
+[Charlie Pogacar](https://www.artandobject.com/authors/charlie-pogacar)
+---------------------------------------------------------------------------
+
+**Charlie Pogacar** is the Custom Content Associate Editor at Journalistic, Inc. He lives in North Carolina with his wife, Abby, and boxer pup, Frankie.
+
+Subscribe to our free e-letter!
+-------------------------------
+
+[Latest News](https://www.artandobject.com/news)
+------------------------------------------------
+
+[![Image 1: ""Perspective"", 1923. Painting by Tamara de Lempicka.](https://cdn.artandobject.com/sites/default/files/styles/image_5_column/public/lempicka-perspective-1923.jpg?itok=Pe6su-TR)](https://www.artandobject.com/news/artist-tamara-de-lempicka-inspired-musical-nominated-tony-awards)
+
+Once known for her stylized …
+
+[![Image 2: Clare Rojas' ""The Stallion"", 2024, Oil on linen, Courtesy of Jessica Silverman](https://cdn.artandobject.com/sites/default/files/styles/image_5_column/public/stallion-oil-linen.jpg?itok=VZj61k9g)](https://www.artandobject.com/news/motif-exhibition-clare-rojas-belle-balls)
+
+San Francisco-based artist …
+
+[![Image 3: Portrait of Fräulein Lieser, unsigned. Painted by Gustav Klimt in 1917.](https://cdn.artandobject.com/sites/default/files/styles/image_5_column/public/1portrait-fraulein-lieser-klimt.jpg?itok=ivjypFbp)](https://www.artandobject.com/news/rediscovered-klimt-painting-goes-auction-vienna)
+
+A portrait, originally thought to be lost, painted by Austrian…
+
+[![Image 4: An example product of art therapy. Leire Markinez Calvo's painting based on her feelings. 2021.](https://cdn.artandobject.com/sites/default/files/styles/image_5_column/public/leiremarkinezpainting.jpg?itok=4Wv6eVLP)](https://www.artandobject.com/news/introduction-art-therapy-its-history-and-practice)
+
+Art has been used as an outlet for the …
+
+[![Image 5: Archie Moore, Australia Pavilion at Venice Biennale 2024, image by Andrea Rossetti.](https://cdn.artandobject.com/sites/default/files/styles/image_5_column/public/archie-moore-australia-pavilion-venice-biennale-2024.jpg?itok=hef-ulGs)](https://www.artandobject.com/news/ode-woven-arts-2024-venice-biennale-golden-lion-awards)
+
+The 60th iteration of the …
+","[('treasury-dept', 'ORG'), ('treasury-dept', 'ORG'), ('the early 2010s', 'DATE'), ('70 percent](https://www.washingtonpost.com', 'PERCENT'), ('less than a year', 'DATE'), ('Mexican', 'NORP'), ('Charlie Pogacar](https://www.artandobject.com', 'PERSON'), ('Charlie Pogacar', 'PERSON'), ('Journalistic, Inc.', 'ORG'), ('North Carolina', 'GPE'), ('Abby', 'PERSON'), ('1', 'CARDINAL'), ('Perspective', 'WORK_OF_ART'), ('1923', 'DATE'), ('Tamara de Lempicka.](https://cdn.artandobject.com/', 'PERSON'), ('tamara-de-lempicka', 'PERSON'), ('2', 'CARDINAL'), (""Clare Rojas'"", 'PERSON'), ('The Stallion', 'WORK_OF_ART'), ('2024', 'DATE'), ('Jessica Silverman](https://cdn.artandobject.com', 'PERSON'), ('clare-rojas-belle-balls', 'PERSON'), ('3', 'CARDINAL'), ('Fräulein Lieser', 'PERSON'), ('Gustav Klimt', 'PERSON'), ('Austrian', 'NORP'), ('4', 'CARDINAL'), (""Leire Markinez Calvo's"", 'PERSON'), ('5', 'CARDINAL'), ('Archie Moore', 'PERSON'), ('Australia Pavilion', 'FAC'), ('Venice Biennale 2024', 'EVENT'), ('Andrea Rossetti.](https://cdn.artandobject.com', 'PERSON'), ('60th', 'ORDINAL')]",,"## Content Analysis: How Money Laundering Works in the Art World
+
+**Short Summary:**
+
+* The article explains how money laundering operates in the art world, highlighting the industry's susceptibility to this activity due to large cash purchases and anonymous buyers.
+* It cites an example of the Mexican art market taking a significant hit after regulations cracking down on anonymous cash transactions were implemented, suggesting the involvement of cartels in money laundering through art.
+
+**Labels:**
+
+illegal activity, art world, money laundering, finance, crime, economics, market analysis
+
+**Event:**
+
+No
+
+**Topic:**
+
+Money Laundering, Art Market
+
+**Journal:**
+
+Art & Object 
+
+**Action Needed:**
+
+None
+
+**Author:**
+
+Charlie Pogacar, Custom Content Associate Editor at Journalistic, Inc. 
+","```json
+{
+  ""Detailed Summary"": ""## The Art World: A Haven for Money Laundering
+
+   **Key Points:**
+
+   * High-value art transactions offer anonymity and facilitate easy concealment of illicit funds.
+   * The art market's opaque nature allows launderers to operate with minimal scrutiny.
+   * Regulations like those implemented in Mexico, requiring buyer information and cash limits, can effectively curb money laundering in the art world.
+
+   **Main Events:**
+
+   * Stricter regulations in the Mexican art market led to a drastic 70% decrease in sales, indicating a significant withdrawal of launderers.
+
+   **Outcomes:**
+
+   * The Mexican case demonstrates the art market's vulnerability to money laundering and the effectiveness of regulations in combating it.
+   * The article underlines the need for enhanced transparency and accountability in the art world to prevent its misuse for illicit activities.
+
+   **Impact:**
+
+   * Money laundering via art poses a serious threat to the art market's integrity and stability.
+   * Collaborative efforts from governments, art market participants, and financial institutions are crucial to combating art-based money laundering.
+   * Increased due diligence, transparency, and regulatory oversight are essential to mitigate the risks associated with this illicit activity.
+
+   **Note:** This summary is based solely on the provided article and does not incorporate external information or analysis."" 
+}
+``` 
+","['```json\n{\n  ""Detailed Summary"": ""## Art as a Tool for Money Laundering: A Detailed Look\n\n   The art world presents a unique and attractive avenue for money laundering due to its inherent features that facilitate anonymity and large cash transactions. \n\n   **Key points:**\n\n   * Art purchases often involve high dollar amounts, making it easier to conceal illicit funds.\n   * The art market typically allows for anonymous buying, further shielding the identity of the launderer.\n   * Instances like the Mexican art market crash following regulations on cash purchases suggest the significant role of illicit money in the art world.\n\n   **Main events:**\n\n   * Implementation of stricter regulations in the Mexican art market, requiring buyer information and limits on cash transactions, led to a 70% drop in sales, indicating the withdrawal of launderers from the market.\n\n   **Outcomes:**\n\n   * The Mexican case highlights the vulnerability of the art market to money laundering and the potential effectiveness of regulations in curbing such activities.\n   * The article emphasizes the need for increased transparency and accountability in the art world to prevent its exploitation for illicit purposes.\n\n   **Significant figures:**\n\n   * **Charlie Pogacar:** Custom Content Associate Editor at Journalistic, Inc., author of the article.\n\n   **Implications:**\n\n   * Money laundering through art poses a significant threat to the integrity and stability of the art market.\n   * Combating money laundering requires collaborative efforts from governments, art market participants, and financial institutions.\n   * Increased due diligence, transparency, and regulatory oversight are crucial to mitigate the risks associated with art-based money laundering.\n\n   **Note:** This summary is based solely on the provided article and does not include any external information or analysis."" \n}\n```']"
+Shardul Vaidya,https://theathletic.com/5233957/2024/01/29/sacramento-kings-domantas-sabonis-interview/,,2024-05-01 00:35:00,https://r.jina.ai/https://theathletic.com/5233957/2024/01/29/sacramento-kings-domantas-sabonis-interview/,"Title: Domantas Sabonis unplugged: Kings’ big man is an NBA mainstay, but don’t tell him that
+
+URL Source: https://theathletic.com/5233957/2024/01/29/sacramento-kings-domantas-sabonis-interview/
+
+Published Time: 2024-01-29T11:00:03.000Z
+
+Markdown Content:
+[Domantas Sabonis](https://theathletic.com/nba/player/domantas-sabonis-P1iXY4NkyOp3D6Vw/) is slightly paranoid.
+
+Talk to those who know him best, and you’ll learn all about the disproportionate desperation that has driven him for all these years. From Oklahoma City to Indiana to this Sacramento stop that has gone so well [since he arrived in February 2022](https://theathletic.com/3511396/2022/02/08/kings-finalize-6-player-trade-to-acquire-domantas-sabonis-tyrese-haliburton-buddy-hield-to-pacers/), with three All-Star berths in between and combined earnings that will surpass $282 million by the end of his current contract, Sabonis has harbored fears of an [NBA](https://theathletic.com/nba/) fallout that should have faded by now. Especially, one might incorrectly assume, after his latest stellar season in which he was dominant and dynamic enough to finish seventh in MVP voting.
+
+So when the 27-year-old spent last summer ramping up his training like never before, inviting [Sacramento Kings](https://theathletic.com/nba/team/sac-kings/) assistant coach Doug Christie to lead his offseason regimen near his homes in Napa, Calif., and Los Angeles while the big man overhauled his diet as a way to increase his strength, no one within his inner circle was surprised. Once he healed up from all the bumps and ([Draymond Green](https://theathletic.com/nba/player/draymond-green-qWchQbJAR0YQNMyV/)–[caused](https://theathletic.com/4423463/2023/04/18/warriors-kings-game-2-score-draymond-green/)) bruises that came with that physical first-round playoff loss to the [Golden State Warriors](https://theathletic.com/nba/team/warriors/), and with the Kings having decided to give him a five-year, $217 million extension that would secure his status as a massive piece of their revived program, he turned his attention to the annual summertime task of proving his worth. Again.
+
+“I always feel that way,” Sabonis told _The Athletic_ with a self-aware chuckle in a recent phone interview. “My wife doesn’t like my mentality sometimes. But I’m always thinking that way — not of the worst (case-scenario), but like, ‘What if it ended today?’ Or ‘What if this or that happened?’ So I’ve gotta do the most (possible with his time).
+
+“There’s a lot to get to work on. I know the numbers may show otherwise, but I feel like there’s so much left where I can help my teammates on the court and win games. That’s exciting as a player. Like, if I work on this, and I can do this in this situation, then that’s going to help the team. I’m always thinking of that.”
+
+The question this week, as Sabonis is well aware, is what the NBA head coaches who pick All-Star reserves might be thinking.
+
+Those numbers that Sabonis alluded to are even better this season than last, as he’s averaging 19.9 points, a league-leading 12.7 rebounds and a team-leading 8.0 assists for this Kings team (26-18) that is fifth in the Western Conference (he averaged 19.1, a league-leading 12.3 rebounds and 7.3 assists in the 2022-23 campaign and was voted third-team All-NBA). The [only other players averaging anywhere near a triple-double](https://www.nba.com/stats/players/traditional?CF=PTS*GE*10:REB*GE*8:AST*GE*7&dir=-1&sort=W) this season, per NBA.com/stats, are the [Denver Nuggets’](https://theathletic.com/nba/team/nuggets/) [Nikola Jokić](https://theathletic.com/nba/player/nikola-jokic-bCjsyLGuQMrMSWNr/)  and the [Dallas Mavericks’](https://theathletic.com/nba/team/mavericks/) [Luka Dončić](https://theathletic.com/nba/player/luka-doncic-gMyReUOesjAikT7S/). Yet still, it seems, Sabonis’ foreboding vibe remains.
+
+His perspective was no doubt shaped by his [legendary Lithuanian father, Arvydas,](https://www.youtube.com/watch?v=JF8aCCt0aw0) whose best playing days came overseas before he finally joined the Portland Trail Blazers as a 30-year-old. His father’s journey was far different — and remarkable, really — with his ill-fated NBA delay caused by everything from the Soviet Union’s [Iron Curtain that blocked him from coming to America](https://www.deseret.com/1996/5/4/19240276/what-ifs-abound-when-contemplating-sabonis) to injuries that forever changed the arc of his career. His story remains one of the great “What-ifs?” in NBA lore.
+
+All these decades later, Domantas has a deep appreciation for his basketball life that was formed out of his family history.
+
+“That desperation to stay over here (in the NBA vs. playing in Europe) because I love it, and try to get better, I don’t think that’s gonna change,” Sabonis said. “My family and friends always laugh at me, like, ‘Oh, you’re always gonna want more, or to keep going.’ They always know. There’s no calm time with me.”
+
+_(The following interview has been lightly edited for brevity and clarity.)_
+
+**So from a timeline standpoint, the Warriors series ends in late April, and you take a bit to recover from there. When did you and Doug start the offseason routine?** 
+
+We met with the (Kings) guys in Napa like a month after the season. We all got together, went to a winery, had dinner. It was the whole team, basically. We stayed at [Stanly Ranch](https://aubergeresorts.com/stanlyranch/). And yeah, a day or two after that is when I started getting back to work. I couldn’t do much at first because of my thumb.
+
+_After suffering a fracture in his right thumb in late December, Sabonis chose against having surgery and instead_ [_played through the injury_](https://theathletic.com/4042348/2022/12/29/domantas-sabonis-thumb-injury-nba-sacramento-kings/) _for the rest of the season._
+
+So we were doing all this rehab for it to get it right, and I couldn’t do contact or anything, so it was just dribbling, and I slowly built into it. With Jas (Randhawa, the Kings’ senior director of athlete health), we had a whole lifting program. I really wanted to get my body right. I’m an undersized big, and I play physical, but I still wanted to be stronger when you play against the bigger guys, to really be able to hold my ground and be more effective.
+
+**So what did you change?**
+
+Well, I usually always try to add or try new things. I want to keep trying to be better, especially while I’m still young. I always start at 6 a.m., but this year, I have my two kids, so I’d make sure I started at 6 a.m., and I’m done by maybe 11, 11:30, so then I get like an hour and a half with the kids before they have their naptime so I’m not fully gone for half of the day during the season (Domantas and his wife, Shashana Rosen, had their second child, and first daughter, in March). I changed my diet to help me. I did a test where they show you all of your things that you’re sensitive to.
+
+**And what did you learn?**
+
+I learned that everything I love I couldn’t eat (laughs). So it definitely was hard. It was hard. I get to do my test again after six months, and usually they say that everything you eat, a lot your body gets adapted to it, so hopefully the things I love that I’ve cut out, when I redo this test, some things might pop back up that I’m allowed to eat again.
+
+No carbs, like wheat. I had to go gluten free. I can’t do gluten-free pasta, and I love Italian food. There’s a lot of carbs in my diet, so I had to basically cut most of them out in terms of pasta, bread. I love croissants, pastries, all that stuff. Those would be my cheat meals. So I have to stay away from that. But I actually didn’t lose weight. I actually gained weight, which is the craziest thing. I just have like no body fat now. … The weight is still there — 248 to 250 (pounds). That’s where I stay at during the season. But the body fat is completely down. It wasn’t high before, but now it’s like nothing.
+
+That’s definitely helped me. I feel lighter. I don’t get as tired on the court. I wake up better. So I did all those things that the tests showed me, and that definitely had an impact. I have kids now, so that means less naptime. But I feel great. And I love to nap, so I always thought that was gonna be an issue, but it definitely hasn’t been.
+
+![Image 1](https://cdn.theathletic.com/app/uploads/2024/01/28194417/USATSI_20561935-scaled.jpg)
+
+Domantas Sabonis and Doug Christie talk before a playoff game in April against the Warriors. (Darren Yamashita / USA Today)
+
+**Let’s go back to the basketball part of the program. What did that look like?**
+
+We just really worked on everything that teams are going to give up on me (defensively), ways that I can get guys more open, more involved, situations where I usually passed up on (opportunities) sometimes to get the offense flowing and whatnot. Sometimes I could be open, but it’s like, “OK, this is where I have to get (Kings forward) Keegan (Murray) the ball or (guard) Kevin (Huerter) the ball,” to get them going so the whole offense clicks. We worked on situations where, if I need to be more aggressive, I have options to go to. We worked on the right hand a lot, and the jump shooting of course. We just really focused on those things, and Doug’s been great. He’s been showing me film on all these little things that we could add. Honestly, I feel like there’s still a lot of room to improve. I always feel like there’s more. It’s kind of hard to add things. It was a tough summer, because when you’re ranked the No. 1 offense in history, there’s not much more to add, you know what I mean?
+
+_While the Kings’ offensive rating of 118.6 last season was the best in league history, they’re currently 12th (117; [Indiana](https://theathletic.com/nba/team/pacers/) has the top mark at 121.2)._
+
+You don’t want to do too much. Maybe that’s what our struggles were in the beginning (of the season) with our offense. Everyone came back and wanted to add more, you know? And everyone had career years (last season). But with an offense like this, you can’t really add more. Everyone knows their role, and you just got to be more efficient, basically.
+
+I think we’ve definitely showed strides in the last 10 games, even though the record hasn’t shown it, but offensively, we’ve done better. The ball has been hopping more, guys have been shooting more confidently. Playing the Warriors ([in a 134-133 win on Thursday](https://theathletic.com/5229249/2024/01/26/harrison-barnes-kings-warriors-recap/)) helps because they’re a really fast team, so it kind of got us back into that flow again. But yeah, we’ll see. We’ll see as the games go on.
+
+**So paint the picture of your training setup in Napa.** 
+
+Well I usually spend time in Napa, and then the other half was in L.A. (after). In Napa, I have a home gym, in terms of a weight room, and then I have a (basketball) gym down the hill from my house like two minutes away. It’s a high school. They’re super nice. It’s a connection I have. They let us come in whenever we want. And we come in early. It’s easy. Doug would basically live out in Napa with me in the summer. I would work out Monday through Friday; Saturday and Sundays would be off. Anytime I wanted to go at night to shoot or whatever, and the gym is right there, they would let me. We basically had our own key. It was basically like our own gym. So that was pretty sweet. And building the weight room out at home was the best thing ever, because that’s like two hours of your day that I’m at home and kids and the fam can come in and can join. It’s just easy. I’m not gone for so long, you know?
+
+With Doug, it’s very natural. We can be ourselves. He’s been a player. I respect him as a player and a person, so it really just flows easy. And then once (Kings assistant coach Leandro) Barbosa came, having him helped a lot more too because that’s a guard who still can play. I played against him in FIBA competitions. We can play ones, and then when any other teammate came to work out with me this summer we could do two-on-two. (Barbosa) is a full player. He’s aggressive, really good on defense. So that would really help me out on those more physical, smaller guys when they go through switching situations. We definitely thought about it all and just went through everything. And Doug is crazy with his methods, so every day was a different crazy drill. If people saw what I was doing , they’d be like, “What is this?” Special type of finishes, dribbling exercises. Every day, he would just switch it up, so he would just keep it exciting and fun.”
+
+**OK, I need to know more about these drills…**
+
+Different finishes off one foot, off the wrong foot, having bands involved. He’s just pushing me. I get bumped a lot when I go up, so it was learning how to finish in those areas. When I shoot, they’re closing out or using a stick, one of those fluffy sticks, hitting me on my legs because, when you shoot, sometimes you get scared you’re gonna step on the ankle. So it’s trying to block all that out and just focus on your shot. Sitting in chairs, finishes with the right hand in a chair under the rim, which is really hard. Standing up in a chair and using heavy balls, big balls, small balls. (Christie) is into all that, and I really trust him. I just go with his flow and really try to learn. At the end of the day, you’re feeling the ball. You get to control the ball. It depends how serious you take the exercise if it’s actually going to help or not, so I went all in with Doug.
+
+**I know you gotta get on the road, so I’ll let you get out. As far as your team right now, you all are learning the hard way how the shift from surprise Cinderella team to being a team with expectations can be tough. Is the spotlight hitting you differently this season? What has that dynamic been like for you?** 
+
+It’s tough to say, because our record isn’t what we think it can be. But we know we’ve dropped a lot of games where we’ve had full control. Just in this last week, the [Phoenix](https://theathletic.com/nba/team/suns/) and the [Milwaukee](https://theathletic.com/nba/team/bucks/) (losses), those would have been two wins where we would have been up in fourth or fifth (place) or whatever it is, you know? It’s tough, because we know we are better. We’ve shown it. We just sometimes go through these mental lapses in games, which are very, very controllable. We know that. There’s other games where we’ve controlled it and ended up winning the game. So we’ve just got to stay mentally strong. We need to win games to get the best seed as we can for the playoffs, but I feel like, as the year goes on, we’re learning more and more, you know? We’re seeing film, seeing what we do wrong.
+
+We’re realizing these things. And the good thing is that we still have another 40 games. But it’s not going to get easier. It’s only gonna get harder as the year goes on because everyone’s fighting for this position. So it’s more about mental toughness for us.
+
+_(Top photo of Domantas Sabonis: Ezra Shaw / Getty Images)_
+","[('Domantas Sabonis', 'PERSON'), ('Kings', 'ORG'), ('NBA', 'ORG'), ('2024-01-29T11:00:03.000Z', 'DATE'), ('Domantas Sabonis](https://theathletic.com', 'PERSON'), ('all these years', 'DATE'), ('Oklahoma City', 'GPE'), ('Indiana', 'GPE'), ('Sacramento', 'GPE'), ('February 2022](https://theathletic.com/3511396/2022/02/08', 'DATE'), ('kings', 'ORG'), ('three', 'CARDINAL'), ('$282 million', 'MONEY'), ('Sabonis', 'PERSON'), ('seventh', 'ORDINAL'), ('MVP', 'WORK_OF_ART'), ('27-year-old', 'DATE'), ('last summer', 'DATE'), ('Sacramento Kings](https://theathletic.com/', 'ORG'), ('Doug Christie', 'PERSON'), ('Napa', 'GPE'), ('Calif.', 'GPE'), ('Los Angeles', 'GPE'), ('Draymond Green](https://theathletic.com', 'PERSON'), ('warriors', 'ORG'), ('first', 'ORDINAL'), ('the [Golden State Warriors](https://theathletic.com/nba/team/warriors/', 'ORG'), ('Kings', 'ORG'), ('five-year', 'DATE'), ('$217 million', 'MONEY'), ('annual', 'DATE'), ('summertime', 'DATE'), ('Sabonis', 'PERSON'), ('The Athletic_', 'ORG'), ('today', 'DATE'), ('this week', 'DATE'), ('Sabonis', 'PERSON'), ('NBA', 'ORG'), ('Sabonis', 'PERSON'), ('this season', 'DATE'), ('19.9', 'CARDINAL'), ('12.7', 'CARDINAL'), ('8.0', 'CARDINAL'), ('Kings', 'ORG'), ('26', 'CARDINAL'), ('fifth', 'ORDINAL'), ('the Western Conference', 'ORG'), ('19.1', 'CARDINAL'), ('12.3', 'CARDINAL'), ('7.3', 'CARDINAL'), ('2022-23', 'DATE'), ('third', 'ORDINAL'), ('this season', 'DATE'), ('the [Denver Nuggets’](https://theathletic.com/nba/team/nuggets/', 'ORG'), ('Nikola Jokić](https://theathletic.com', 'PERSON'), ('the [Dallas Mavericks’](https://theathletic.com/nba/team/mavericks/)', 'ORG'), ('Luka Dončić](https://theathletic.com', 'PERSON'), ('Sabonis', 'PERSON'), ('Lithuanian', 'NORP'), ('the Portland Trail Blazers', 'ORG'), ('30-year-old', 'DATE'), ('NBA', 'ORG'), ('the Soviet Union’s', 'GPE'), ('NBA', 'ORG'), ('All these decades later', 'DATE'), ('Domantas', 'PERSON'), ('NBA', 'ORG'), ('Europe', 'LOC'), ('Sabonis', 'PERSON'), ('Warriors', 'ORG'), ('late April', 'DATE'), ('Doug', 'PERSON'), ('Kings', 'ORG'), ('Napa', 'GPE'), ('a month after the season', 'DATE'), ('Stanly Ranch](https://aubergeresorts.com/stanlyranch/', 'ORG'), ('a day or', 'DATE'), ('two', 'CARDINAL'), ('first', 'ORDINAL'), ('late December', 'DATE'), ('Sabonis', 'PERSON'), ('Jas', 'PERSON'), ('Randhawa', 'PERSON'), ('Kings', 'ORG'), ('6 a.m.', 'TIME'), ('this year', 'DATE'), ('two', 'CARDINAL'), ('6 a.m.', 'TIME'), ('maybe 11, 11:30', 'TIME'), ('an hour and a half', 'TIME'), ('half of the day', 'DATE'), ('the season', 'DATE'), ('Domantas', 'PERSON'), ('Shashana Rosen', 'PERSON'), ('second', 'ORDINAL'), ('first', 'ORDINAL'), ('March', 'DATE'), ('six months', 'DATE'), ('Italian', 'NORP'), ('248 to 250 (pounds', 'QUANTITY'), ('the season', 'DATE'), ('Domantas Sabonis', 'PERSON'), ('Doug Christie', 'PERSON'), ('April', 'DATE'), ('Warriors', 'ORG'), ('Darren Yamashita', 'PERSON'), ('USA Today', 'ORG'), ('Kings', 'ORG'), ('Keegan (Murray)', 'PERSON'), ('Kevin (Huerter', 'PERSON'), ('Doug', 'PERSON'), ('a tough summer', 'DATE'), ('1', 'CARDINAL'), ('Kings', 'ORG'), ('118.6', 'CARDINAL'), ('last season', 'DATE'), ('12th', 'ORDINAL'), ('117', 'CARDINAL'), ('121.2', 'CARDINAL'), ('last season', 'DATE'), ('10', 'CARDINAL'), ('Warriors', 'ORG'), ('134', 'CARDINAL'), ('Napa', 'GPE'), ('Napa', 'GPE'), ('half', 'CARDINAL'), ('L.A.', 'GPE'), ('Napa', 'GPE'), ('two minutes', 'QUANTITY'), ('Doug', 'PERSON'), ('Napa', 'GPE'), ('the summer', 'DATE'), ('Monday through Friday', 'DATE'), ('Saturday', 'DATE'), ('Sundays', 'DATE'), ('night', 'TIME'), ('two hours', 'TIME'), ('Doug', 'PERSON'), ('Kings', 'ORG'), ('Leandro) Barbosa', 'PERSON'), ('FIBA', 'ORG'), ('this summer', 'DATE'), ('two', 'CARDINAL'), ('two', 'CARDINAL'), ('Barbosa', 'PERSON'), ('Doug', 'PERSON'), ('every day', 'DATE'), ('Every day', 'DATE'), ('one', 'CARDINAL'), ('one', 'CARDINAL'), ('Christie', 'PERSON'), ('Doug', 'PERSON'), ('this season', 'DATE'), ('this last week', 'DATE'), ('two', 'CARDINAL'), ('fourth', 'ORDINAL'), ('fifth', 'ORDINAL'), ('the year', 'DATE'), ('40', 'CARDINAL'), ('the year', 'DATE'), ('Domantas Sabonis', 'PERSON'), ('Ezra Shaw', 'PERSON'), ('Getty Images', 'ORG')]",,"```json
+{
+  ""Short Summary"": ""Domantas Sabonis, the Kings' starting center, discusses his relentless work ethic, offseason training regimen, and the team's adjustments to their newfound expectations."",
+  ""Labels"": ""basketball, NBA, Kings, Sabonis, training, interview, analysis"",
+  ""Event"": ""No"",
+  ""Topic"": ""Basketball"",
+  ""Journal"": ""The Athletic"",
+  ""Action Needed"": ""None"",
+  ""Author"": ""Jason Jones""
+}
+```","## Detailed Summary:
+
+**Topic:** Domantas Sabonis' fear of failure and its impact on his basketball career.
+
+**Key Points:**
+
+* Domantas Sabonis is a successful NBA player, averaging 19.9 points, 12.7 rebounds, and 8.0 assists for the Sacramento Kings.
+* Despite his achievements, Sabonis struggles with a deep-seated fear of failure inherited from his admiration for his father, Arvydas Sabonis, a legendary Lithuanian basketball player who faced challenges in his own NBA career.
+* This fear drives Sabonis’ relentless pursuit of improvement, making him a dominant force on the court.
+* He remains anxious about being selected for the All-Star game, highlighting his desire to prove himself.
+* Sabonis’ story demonstrates the power of determination and the impact of family legacy. It also underscores the challenges athletes face in striving for greatness while grappling with the fear of falling short.
+
+**Key Figures:**
+
+* Domantas Sabonis: Sacramento Kings power forward
+* Arvydas Sabonis: Domantas Sabonis’ father and legendary Lithuanian basketball player
+
+**Impact:**
+
+* Sabonis’ fear of failure motivates him to constantly improve, making him a valuable asset to the Sacramento Kings.
+* His story serves as an inspiration for aspiring athletes and anyone facing self-doubt.
+","['{\n ""Detailed Summary"": ""Domantas Sabonis is a prominent NBA player who has achieved significant success throughout his career. Despite his accomplishments, he remains driven by a deep-seated fear of failure. This mindset stems from his admiration for his father, Arvydas Sabonis, a legendary Lithuanian basketball player whose NBA career was hampered by various challenges. Domantas is determined to avoid a similar fate and constantly strives to improve. This relentless pursuit of excellence has led him to become a dominant force on the court, averaging 19.9 points, a league-leading 12.7 rebounds, and 8.0 assists for the Sacramento Kings. As the All-Star game approaches, Sabonis remains anxious about his chances of being selected, showcasing his unwavering desire to prove himself. His story is a testament to the power of determination and the enduring impact of family legacy. It also highlights the unique challenges faced by athletes who strive for greatness while grappling with the fear of falling short.""\n}', ""## Detailed Summary:\n\n**Domantas Sabonis' Offseason Routine:**\n\n* Began training with the Kings in Napa in May, focusing on rehabilitation for his fractured thumb.\n* Worked on strength and conditioning to improve his ability to hold his ground against larger players.\n* Adjusted his diet based on a sensitivity test, eliminating gluten and other carbs.\n* Gained weight but reduced body fat, leading to improved stamina and recovery.\n* Focused on developing his skillset to address defensive weaknesses and create more opportunities for teammates.\n* Expanded his offensive repertoire, including right-hand moves and jump shooting.\n* Remained motivated to improve despite the Kings' historic offensive rating in 2022-23.\n* Acknowledged some struggles with the team's offensive flow early in the season.\n\n**Key Figures:**\n\n* Domantas Sabonis: Sacramento Kings power forward\n* Doug Christie: Kings assistant coach\n* Stanly Ranch: Napa Valley resort where the Kings team met\n* Jas Randhawa: Kings senior director of athlete health\n\n**Significant Outcomes/Conclusions:**\n\n* Sabonis' offseason work focused on physical and skill development to address specific weaknesses and improve his overall contribution to the team.\n* The Kings' offensive efficiency in the 2023-24 season remains high, despite a slight decline from their record-breaking performance in 2022-23.\n* Sabonis acknowledges the need for continued improvement and is committed to expanding his offensive skillset.\n\n**Implications/Impact:**\n\n* Sabonis' offseason efforts are expected to have a positive impact on his individual performance and the Kings' overall offensive success.\n* His focus on creating more opportunities for teammates could lead to a more balanced and unpredictable offense.\n* The team's early-season offensive struggles highlight the need for continued refinement and adaptation of their offensive strategies."", '""Detailed Summary:   \n\n* **Harrison Barnes, Kings small forward, discusses his offseason training in Napa, California.**\n* **Key elements of Barnes\' training regimen:**\n    * **Weightlifting and basketball drills at a local high school gym**\n    * **Partnership with player development specialist Doug Christie for intense workouts**\n    * **Guidance from assistant coach Leandro Barbosa on facing smaller, quicker defenders**\n* **Emphasis on overcoming mental lapses during games and maintaining a high level of focus throughout the season.**\n* **Barnes notes the Kings have dropped winnable games due to mental inconsistencies but remain optimistic about their potential as they head into the final stretch of the regular season.**""', ""## Detailed Summary:\n\n**Topic:** Domantas Sabonis trade to the Sacramento Kings \n\n**Key Players:**\n\n* **Domantas Sabonis:** Former Indiana Pacers player, traded to the Sacramento Kings. \n* **Tyrese Haliburton:** Former Sacramento Kings player, traded to the Indiana Pacers.\n* **Buddy Hield:** Former Sacramento Kings player, traded to the Indiana Pacers.\n* **Justin Holiday:** Former Indiana Pacers player, traded to the Sacramento Kings.\n\n**Main Points:**\n\n* The Indiana Pacers and Sacramento Kings completed a blockbuster trade on February 8th, 2022.\n* The Kings acquired All-Star forward Domantas Sabonis, Jeremy Lamb, and Justin Holiday in exchange for Tyrese Haliburton, Buddy Hield, and Tristan Thompson.\n* This trade significantly impacts both teams' futures. \n* The Kings believe Sabonis can be their franchise cornerstone alongside De'Aaron Fox. \n* The Pacers receive a talented young core of players in Haliburton and Hield, aiming for a rebuild.\n\n**Figures:**\n\n* Sabonis, averaging 18.9 points and 12.1 rebounds in the 2021-22 season, is expected to boost the Kings' offense and rebounding.\n* Haliburton, a rising star, averaged 14.3 points and 7.4 assists per game, offering the Pacers promising point guard potential.\n\n**Implications:**\n\n* This trade could reshape the Western Conference playoff picture, with the Kings potentially aiming for a higher seed. \n* The Pacers enter a full-blown rebuild, focusing on developing their young players.\n* Both teams aim to improve significantly with this trade. ""]"
